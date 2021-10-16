@@ -1,0 +1,137 @@
+{
+    "metrics": [
+      {
+        "type": "total_silence",
+        "percent": 29.061,
+        "seconds": 23.432
+      },
+      {
+        "type": "total_talk_time",
+        "percent": 70.939,
+        "seconds": 57.199
+      },
+      {
+        "type": "total_overlap",
+        "percent": 55.071,
+        "seconds": 31.5
+      }
+    ],
+    "members": [
+      {
+        "id": "acc63fbe-c3cd-4daa-8ab0-b088142e5a0f",
+        "name": "Speaker 1",
+        "pace": {
+          "wpm": 68
+        },
+        "talkTime": {
+          "percentage": 40.912,
+          "seconds": 23.401
+        },
+        "listenTime": {
+          "percentage": 59.088,
+          "seconds": 33.798
+        },
+        "overlap": {
+          "overlapDuration": 31.5,
+          "overlappingMembers": [
+            {
+              "id": "a52def45-be6e-484f-908b-9ac66eaecabb",
+              "name": "Speaker 2",
+              "percent": 61.58,
+              "seconds": 24.94
+            },
+            {
+              "id": "a52def45-be6e-484f-908b-9ac66eaecacb",
+              "name": "Speaker 3",
+              "percent": 7.51,
+              "seconds": 1.9
+            },
+            {
+              "id": "a52def45-be6e-484f-908b-9ac56eaecabb",
+              "name": "Speaker 4",
+              "percent": 12.199,
+              "seconds": 4.66
+            }
+          ]
+        }
+      },
+      {
+        "id": "a52def45-be6e-484f-908b-9ac66eaecabb",
+        "name": "Speaker 2",
+        "pace": {
+          "wpm": 132
+        },
+        "talkTime": {
+          "percentage": 29.894,
+          "seconds": 17.099
+        },
+        "listenTime": {
+          "percentage": 70.106,
+          "seconds": 40.1
+        },
+        "overlap": {
+          "overlapDuration": 24.94,
+          "overlappingMembers": [
+            {
+              "id": "acc63fbe-c3cd-4daa-8ab0-b088142e5a0f",
+              "name": "Speaker 1",
+              "percent": 61.58,
+              "seconds": 24.94
+            }
+          ]
+        }
+      },
+      {
+        "id": "a52def45-be6e-484f-908b-9ac66eaecacb",
+        "name": "Speaker 3",
+        "pace": {
+          "wpm": 189
+        },
+        "talkTime": {
+          "percentage": 3.322,
+          "seconds": 1.9
+        },
+        "listenTime": {
+          "percentage": 96.678,
+          "seconds": 55.299
+        },
+        "overlap": {
+          "overlapDuration": 1.9,
+          "overlappingMembers": [
+            {
+              "id": "acc63fbe-c3cd-4daa-8ab0-b088142e5a0f",
+              "name": "Speaker 1",
+              "percent": 7.51,
+              "seconds": 1.9
+            }
+          ]
+        }
+      },
+      {
+        "id": "a52def45-be6e-484f-908b-9ac56eaecabb",
+        "name": "Speaker 4",
+        "pace": {
+          "wpm": 152
+        },
+        "talkTime": {
+          "percentage": 25.873,
+          "seconds": 14.799
+        },
+        "listenTime": {
+          "percentage": 74.127,
+          "seconds": 42.4
+        },
+        "overlap": {
+          "overlapDuration": 4.66,
+          "overlappingMembers": [
+            {
+              "id": "acc63fbe-c3cd-4daa-8ab0-b088142e5a0f",
+              "name": "Speaker 1",
+              "percent": 12.199,
+              "seconds": 4.66
+            }
+          ]
+        }
+      }
+    ]
+  }

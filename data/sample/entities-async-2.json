@@ -1,0 +1,13 @@
+{
+    "type": "person",
+    "value": "jamie smith",
+    "text": "jamie smith",
+    "messageRefs": [
+      {
+        "id": "5979280332816384",
+        "text": "The name is Jamie Smith.",
+        "offset": 12
+      }
+    ]
+  }
+  

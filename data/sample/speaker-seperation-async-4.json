@@ -1,0 +1,45 @@
+{
+    "insights": [
+        {
+            "id": "5501181057040384",
+            "text": "We need to go over three more common interview questions.",
+            "type": "action_item",
+            "score": 1,
+            "messageIds": [
+                "5710067261243392"
+            ],
+            "entities": [],
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "go over three more common interview questions"
+                }
+            ],
+            "from": {
+                "id": "2f69f1c8-bf0a-48ef-b47f-95ae5a4de325",
+                "email": "john@example.com",
+                "name": "John Doe"
+            },
+            "definitive": true,
+            "assignee": {
+                "id": "2f69f1c8-bf0a-48ef-b47f-95ae5a4de325",
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "id": "5519156904460288",
+            "text": "How did you hear about this position?",
+            "type": "question",
+            "score": 0.999988666660899,
+            "messageIds": [
+                "4616389407014912"
+            ],
+            "from": {
+                "id": "2f69f1c8-bf0a-48ef-b47f-95ae5a4de325",
+                "email": "john@example.com",
+                "name": "John Doe"
+            }
+        }
+
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "messages":[
+      {
+        "id":"6131375637790720",
+        "text":"Okay, so you're talking about that file, which I am sending you.",
+        "from":{
+          
+        },
+        "startTime":"2021-04-12T22:10:39.881Z",
+        "endTime":"2021-04-12T22:10:43.981Z",
+        "conversationId":"6320529160011776",
+        "phrases":[
+          {
+            "type":"action_phrase",
+            "text":"sending I you"
+          }
+        ],
+        "sentiment":{
+          "polarity":{
+            "score":-0.201
+          },
+          "suggested":"neutral"
+        }
+      },
+      {
+        "id":"6605033355345920",
+        "text":"Ah There is way I don't think there is way too now.",
+        "from":{
+          
+        },
+        "startTime":"2021-04-12T22:10:46.681Z",
+        "endTime":"2021-04-12T22:10:53.281Z",
+        "conversationId":"6320529160011776",
+        "phrases":[
+          {
+            "type":"action_phrase",
+            "text":"think there is way too now"
+          }
+        ],
+        "sentiment":{
+          "polarity":{
+            "score":-0.201
+          },
+          "suggested":"neutral"
+        }
+      }
+    ]
+  }

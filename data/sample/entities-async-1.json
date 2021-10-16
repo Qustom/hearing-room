@@ -1,0 +1,13 @@
+{
+    "type": "custom",
+    "customType": "Company Executives",
+    "value": "marketing director",
+    "text": "marketing director",
+    "messageRefs": [
+      {
+        "id": "5118221462011904",
+        "text": "The marketing director is out-of-town due to some work.",
+        "offset": 4
+      }
+    ]
+  }

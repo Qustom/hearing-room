@@ -1,0 +1,12 @@
+{
+    "type": "organization",
+    "value": "Vodafone",
+    "text": "Vodafone",
+    "messageRefs": [
+      {
+        "id": "6141473464516608",
+        "text": "Hello, this is Peter from Vodafone, I help you today.",
+        "offset": 26
+      }
+    ]
+  }

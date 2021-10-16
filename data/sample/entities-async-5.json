@@ -1,0 +1,12 @@
+{
+    "type": "number",
+    "value": "two",
+    "text": "two",
+    "messageRefs": [
+      {
+        "id": "6137109238775808",
+        "text": "What do you two think of that?",
+        "offset": 12
+      }
+    ]
+  }

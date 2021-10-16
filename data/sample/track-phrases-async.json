@@ -1,0 +1,139 @@
+[
+    {
+      "id": "4756677603622912",
+      "name": "Preparing",
+      "matches": [
+        {
+          "messageRefs": [
+            {
+              "id": "6564679117701120",
+              "text": "That's all about preparing for a job interview.",
+              "offset": -1
+            },
+            {
+              "id": "4735091769081856",
+              "text": "This is part 1 of a five part series on preparing for an interview interviewing for a new job can be a huge source of stress and anxiety.",
+              "offset": 67
+            }
+          ],
+          "type": "vocabulary",
+          "value": "Interviewing for a new job",
+          "insightRefs": []
+        },
+        {
+          "messageRefs": [
+            {
+              "id": "4776569274892288",
+              "text": "And if you're interviewing for a job in a non-native language, the stress can be even higher in this video.",
+              "offset": -1
+            },
+            {
+              "id": "5391969637367808",
+              "text": "You will see me interview for a job throughout the interview will discuss some of the most common interview questions and how to answer them.",
+              "offset": 86
+            },
+            {
+              "id": "4735091769081856",
+              "text": "This is part 1 of a five part series on preparing for an interview interviewing for a new job can be a huge source of stress and anxiety.",
+              "offset": -1
+            },
+            {
+              "id": "5048132138172416",
+              "text": "For instance if the interviewer asks you how your weekend was you might respond.",
+              "offset": -1
+            },
+            {
+              "id": "6626693613617152",
+              "text": "All you need to do is be polite and friendly keep your answers short you can also Feel free to turn the question back to the interviewer.",
+              "offset": -1
+            },
+            {
+              "id": "5288167592689664",
+              "text": "Did you have any trouble finding the office Small Talk most interviews will start out with a handshake and some small talk?",
+              "offset": -1
+            },
+            {
+              "id": "4786205738663936",
+              "text": "It's very common for interviewers to Simply ask you to tell them about yourself.",
+              "offset": -1
+            },
+            {
+              "id": "5966231091806208",
+              "text": "If you're preparing for an interview practice talking about yourself and your work history record yourself with a video camera if possible.",
+              "offset": -1
+            },
+            {
+              "id": "4583072743817216",
+              "text": "It's important that you don't just write a paragraph and memorize it but simply practice free talking with some key phrases the more you practice before the interview the more comfortable you will feel answering the questions during the interview.",
+              "offset": -1
+            },
+            {
+              "id": "5831946489823232",
+              "text": "We will go over three more common interview questions.",
+              "offset": -1
+            },
+            {
+              "id": "6116201249898496",
+              "text": "What attracted you to our company and what's your greatest strength I hope this video on job interviews has been helpful there's nothing better than walking out of an interview feeling that you were fully prepared if you have interview related questions or stories, please post them in the comments below I would love to hear them.",
+              "offset": -1
+            }
+          ],
+          "type": "vocabulary",
+          "value": "Most common interview questions",
+          "insightRefs": [
+            {
+              "text": "Did you have any trouble finding the office Small Talk most interviews will start out with a handshake and some small talk?",
+              "offset": -1,
+              "type": "question",
+              "id": "6250461063544832"
+            },
+            {
+              "id": "5978748673327104",
+              "text": "We need to go over three more common interview questions.",
+              "offset": -1,
+              "type": "action_item"
+            }
+          ]
+        },
+        {
+          "messageRefs": [
+            {
+              "id": "6626693613617152",
+              "text": "All you need to do is be polite and friendly keep your answers short you can also Feel free to turn the question back to the interviewer.",
+              "offset": 22
+            }
+          ],
+          "type": "vocabulary",
+          "value": "Be polite and friendly",
+          "insightRefs": []
+        },
+        {
+          "messageRefs": [
+            {
+              "id": "5010445679198208",
+              "text": "Kitchens, you could also practice with a friend here is an example of small talk.",
+              "offset": 25
+            },
+            {
+              "id": "6227772957523968",
+              "text": "It may seem silly, but you can practice small talk on your own by asking yourself simple easy to answer non personal.",
+              "offset": 31
+            },
+            {
+              "id": "5966231091806208",
+              "text": "If you're preparing for an interview practice talking about yourself and your work history record yourself with a video camera if possible.",
+              "offset": 37
+            },
+            {
+              "id": "4583072743817216",
+              "text": "It's important that you don't just write a paragraph and memorize it but simply practice free talking with some key phrases the more you practice before the interview the more comfortable you will feel answering the questions during the interview.",
+              "offset": 80
+            }
+          ],
+          "type": "vocabulary",
+          "value": "Practice",
+          "insightRefs": []
+        }
+      ]
+    }
+  ]

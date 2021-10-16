@@ -1,0 +1,17 @@
+{
+    "messages": [{
+      "id": "6412283618000896",
+      "text": "Best package for you is $69.99 per month.",
+      "from": {
+        "name": "Roger",
+        "email": "Roger@example.com"
+      },
+      "startTime": "2020-07-10T11:16:21.024Z",
+      "endTime": "2020-07-10T11:16:26.724Z",
+      "conversationId": "6749556955938816",
+      "phrases": [{
+        "type": "action_phrase",
+        "text": "$69.99 per month"
+      }]
+    }]
+  }
