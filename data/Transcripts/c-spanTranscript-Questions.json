@@ -1,0 +1,82 @@
+{
+    "questions": [
+        {
+            "id": "4938221319356416",
+            "text": "There any Amendment or a discussion?",
+            "type": "question",
+            "score": 0.7546044662276907,
+            "messageIds": [
+                "6253531095891968"
+            ],
+            "from": {
+                "id": "cd91310e-b3ea-47f0-8480-d699b476a400",
+                "name": "Speaker 12"
+            }
+        },
+        {
+            "id": "5307046804062208",
+            "text": "Any other minority Mr. Chairman you referenced.",
+            "type": "question",
+            "score": 0.7398358675476773,
+            "messageIds": [
+                "5210493657546752"
+            ],
+            "from": {
+                "id": "84b1833c-191d-451f-9240-ef1b30c76150",
+                "name": "Speaker 10"
+            }
+        },
+        {
+            "id": "5786318995980288",
+            "text": "Discussion hearing none the voters on the coal Amendment?",
+            "type": "question",
+            "score": 0.7708738901290679,
+            "messageIds": [
+                "6078968793923584"
+            ],
+            "from": {
+                "id": "1389d5e5-d3f2-46a9-868c-3b8964d15af9",
+                "name": "Speaker 5"
+            }
+        },
+        {
+            "id": "5835573412495360",
+            "text": "Is it with language guaranteeing that Executive, Administrative and professional employees are granted the same nursing accommodations as hourly workers and protecting small businesses from undue hardship?",
+            "type": "question",
+            "score": 0.9657650968783009,
+            "messageIds": [
+                "5597452292849664"
+            ],
+            "from": {
+                "id": "84b1833c-191d-451f-9240-ef1b30c76150",
+                "name": "Speaker 10"
+            }
+        },
+        {
+            "id": "6255141507301376",
+            "text": "Controlled by the proponent and opponent may be withdrawn by the.",
+            "type": "question",
+            "score": 0.9350131848738406,
+            "messageIds": [
+                "5749253428215808"
+            ],
+            "from": {
+                "id": "4cb2bfa2-6a79-4edf-a73f-1ce5f5ae700f",
+                "name": "Speaker 6"
+            }
+        },
+        {
+            "id": "6391462561316864",
+            "text": "Eight days amendment is not agreed to are there further amendments?",
+            "type": "question",
+            "score": 0.985613256068356,
+            "messageIds": [
+                "6716622724136960"
+            ],
+            "from": {
+                "id": "cd91310e-b3ea-47f0-8480-d699b476a400",
+                "name": "Speaker 12"
+            }
+        }
+    ]
+}
