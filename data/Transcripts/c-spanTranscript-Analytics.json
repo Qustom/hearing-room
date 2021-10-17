@@ -1,0 +1,229 @@
+{
+    "metrics": [
+        {
+            "type": "total_silence",
+            "percent": 20.117,
+            "seconds": 325.925
+        },
+        {
+            "type": "total_talk_time",
+            "percent": 79.883,
+            "seconds": 1294.2
+        },
+        {
+            "type": "total_overlap",
+            "percent": 0,
+            "seconds": 0
+        }
+    ],
+    "members": [
+        {
+            "id": "66d8689e-8606-40e2-aa4b-28058f2067db",
+            "name": "Speaker 11",
+            "pace": {
+                "wpm": 190
+            },
+            "talkTime": {
+                "percentage": 3.655,
+                "seconds": 47.3
+            },
+            "listenTime": {
+                "percentage": 96.345,
+                "seconds": 1246.9
+            },
+            "overlap": {}
+        },
+        {
+            "id": "9ab722b4-7097-4fca-9f19-043ba94c70a8",
+            "name": "Speaker 1",
+            "pace": {
+                "wpm": 169
+            },
+            "talkTime": {
+                "percentage": 10.98,
+                "seconds": 142.1
+            },
+            "listenTime": {
+                "percentage": 89.02,
+                "seconds": 1152.1
+            },
+            "overlap": {}
+        },
+        {
+            "id": "cd91310e-b3ea-47f0-8480-d699b476a400",
+            "name": "Speaker 12",
+            "pace": {
+                "wpm": 190
+            },
+            "talkTime": {
+                "percentage": 8.283,
+                "seconds": 107.2
+            },
+            "listenTime": {
+                "percentage": 91.717,
+                "seconds": 1187
+            },
+            "overlap": {}
+        },
+        {
+            "id": "abdbd008-d9ba-4a9f-9dca-5fdd351706fb",
+            "name": "Speaker 9",
+            "pace": {
+                "wpm": 176
+            },
+            "talkTime": {
+                "percentage": 0.131,
+                "seconds": 1.7
+            },
+            "listenTime": {
+                "percentage": 99.869,
+                "seconds": 1292.5
+            },
+            "overlap": {}
+        },
+        {
+            "id": "1389d5e5-d3f2-46a9-868c-3b8964d15af9",
+            "name": "Speaker 5",
+            "pace": {
+                "wpm": 169
+            },
+            "talkTime": {
+                "percentage": 21.21,
+                "seconds": 274.5
+            },
+            "listenTime": {
+                "percentage": 78.79,
+                "seconds": 1019.7
+            },
+            "overlap": {}
+        },
+        {
+            "id": "2b46c03b-70d7-4cd4-a479-c52248718683",
+            "name": "Speaker 13",
+            "pace": {
+                "wpm": 175
+            },
+            "talkTime": {
+                "percentage": 2.063,
+                "seconds": 26.7
+            },
+            "listenTime": {
+                "percentage": 97.937,
+                "seconds": 1267.5
+            },
+            "overlap": {}
+        },
+        {
+            "id": "4cb2bfa2-6a79-4edf-a73f-1ce5f5ae700f",
+            "name": "Speaker 6",
+            "pace": {
+                "wpm": 159
+            },
+            "talkTime": {
+                "percentage": 16.574,
+                "seconds": 214.5
+            },
+            "listenTime": {
+                "percentage": 83.426,
+                "seconds": 1079.7
+            },
+            "overlap": {}
+        },
+        {
+            "id": "c419bd11-26cc-4c62-b5c1-3b4050aef5b9",
+            "name": "Speaker 8",
+            "pace": {
+                "wpm": 182
+            },
+            "talkTime": {
+                "percentage": 13.329,
+                "seconds": 172.5
+            },
+            "listenTime": {
+                "percentage": 86.671,
+                "seconds": 1121.7
+            },
+            "overlap": {}
+        },
+        {
+            "id": "c0b04341-9e54-478a-9d28-1f8fb30340d8",
+            "name": "Speaker 7",
+            "pace": {
+                "wpm": 85
+            },
+            "talkTime": {
+                "percentage": 0.054,
+                "seconds": 0.7
+            },
+            "listenTime": {
+                "percentage": 99.946,
+                "seconds": 1293.5
+            },
+            "overlap": {}
+        },
+        {
+            "id": "84b1833c-191d-451f-9240-ef1b30c76150",
+            "name": "Speaker 10",
+            "pace": {
+                "wpm": 160
+            },
+            "talkTime": {
+                "percentage": 20.136,
+                "seconds": 260.6
+            },
+            "listenTime": {
+                "percentage": 79.864,
+                "seconds": 1033.6
+            },
+            "overlap": {}
+        },
+        {
+            "id": "2bae9874-294e-4abb-aaef-e0f69115176e",
+            "name": "Speaker 2",
+            "pace": {
+                "wpm": 173
+            },
+            "talkTime": {
+                "percentage": 3.5,
+                "seconds": 45.3
+            },
+            "listenTime": {
+                "percentage": 96.5,
+                "seconds": 1248.9
+            },
+            "overlap": {}
+        },
+        {
+            "id": "61207f57-be7f-45e3-9b9e-b44f53fa19cb",
+            "name": "Speaker 3",
+            "pace": {
+                "wpm": 225
+            },
+            "talkTime": {
+                "percentage": 0.062,
+                "seconds": 0.8
+            },
+            "listenTime": {
+                "percentage": 99.938,
+                "seconds": 1293.4
+            },
+            "overlap": {}
+        },
+        {
+            "id": "52bf956b-97ad-4567-a658-939e45005262",
+            "name": "Speaker 4",
+            "pace": {
+                "wpm": 600
+            },
+            "talkTime": {
+                "percentage": 0.023,
+                "seconds": 0.3
+            },
+            "listenTime": {
+                "percentage": 99.977,
+                "seconds": 1293.9
+            },
+            "overlap": {}
+        }
+    ]
+}

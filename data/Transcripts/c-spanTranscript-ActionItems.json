@@ -1,0 +1,24 @@
+{
+    "actionItems": [
+        {
+            "id": "5538255631024128",
+            "text": "We need to have to deal with it again.",
+            "type": "action_item",
+            "score": 0.7826911391637749,
+            "messageIds": [
+                "4771071673761792"
+            ],
+            "entities": [],
+            "phrases": [],
+            "from": {
+                "id": "1389d5e5-d3f2-46a9-868c-3b8964d15af9",
+                "name": "Speaker 5"
+            },
+            "definitive": true,
+            "assignee": {
+                "id": "1389d5e5-d3f2-46a9-868c-3b8964d15af9",
+                "name": "Speaker 5"
+            }
+        }
+    ]
+}
