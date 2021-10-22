@@ -1,0 +1,3497 @@
+{
+    "messages": [
+        {
+            "id": "6360361776185344",
+            "text": "How are you doing?",
+            "from": {},
+            "startTime": "2021-10-22T02:49:59.219Z",
+            "endTime": "2021-10-22T02:49:59.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6260327692894208",
+            "text": "Good afternoon, first, happy birthday to the stranger.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:03.419Z",
+            "endTime": "2021-10-22T02:50:07.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4979863845863424",
+            "text": "It's their 30th anniversary of their first publication.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:07.219Z",
+            "endTime": "2021-10-22T02:50:10.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6433184142065664",
+            "text": "Good news from the Kraken, their training session.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:11.119Z",
+            "endTime": "2021-10-22T02:50:14.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5626875234746368",
+            "text": "I believe started today, and they have a hundred percent vaccination rate.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:14.019Z",
+            "endTime": "2021-10-22T02:50:18.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "believe started today"
+                }
+            ]
+        },
+        {
+            "id": "6734417646059520",
+            "text": "Congratulations to the Kraken.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:18.919Z",
+            "endTime": "2021-10-22T02:50:20.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5565499883651072",
+            "text": "Today, I am extending the Statewide eviction bridge for 30 days until the end of October to make sure that local governments have an opportunity to issue.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:22.119Z",
+            "endTime": "2021-10-22T02:50:35.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "make sure that local governments have an opportunity to issue"
+                }
+            ]
+        },
+        {
+            "id": "5915118085865472",
+            "text": "The rental relief that is now available to Citizens.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:35.619Z",
+            "endTime": "2021-10-22T02:50:38.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4583548435562496",
+            "text": "This brief extension will help ensure that no one is evicted while large amounts of rental.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:38.319Z",
+            "endTime": "2021-10-22T02:50:45.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "ensure that no one is evicted while large amounts of rental"
+                }
+            ]
+        },
+        {
+            "id": "5050687856574464",
+            "text": "Funding is still available, but unused, this bridge was Currently set to expire as, you know, on September 30th, but we're hearing that counties need a little more time to be able to effectuate.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:45.819Z",
+            "endTime": "2021-10-22T02:51:00.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "hearing that counties need a little more time to be able to effectuate"
+                }
+            ]
+        },
+        {
+            "id": "5100105897082880",
+            "text": "Assistance.",
+            "from": {},
+            "startTime": "2021-10-22T02:50:45.819Z",
+            "endTime": "2021-10-22T02:50:45.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6620300042043392",
+            "text": "The rental relief that is available today to Citizens.",
+            "from": {},
+            "startTime": "2021-10-22T02:51:01.319Z",
+            "endTime": "2021-10-22T02:51:04.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6713730600534016",
+            "text": "We have good reason to believe that counties will be able to move more quickly.",
+            "from": {},
+            "startTime": "2021-10-22T02:51:05.219Z",
+            "endTime": "2021-10-22T02:51:09.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "believe that counties will be able to move more quickly"
+                }
+            ]
+        },
+        {
+            "id": "4576454357549056",
+            "text": "Now in part, because the US Treasury has changed some of the rules that makes it, it's much easier to distribute the money to citizens.",
+            "from": {},
+            "startTime": "2021-10-22T02:51:09.219Z",
+            "endTime": "2021-10-22T02:51:18.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "changed some of the rules that makes it"
+                }
+            ]
+        },
+        {
+            "id": "5577222069944320",
+            "text": "We're moving toward the permanent solution that came about through the work with the legislation legislature in the last session.",
+            "from": {},
+            "startTime": "2021-10-22T02:51:19.919Z",
+            "endTime": "2021-10-22T02:51:28.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5741429876850688",
+            "text": "I deliberately move this process through the legislature to provide a long-term solution, and I am extending the bridge to be able to make sure that solution gets in place.",
+            "from": {},
+            "startTime": "2021-10-22T02:51:29.619Z",
+            "endTime": "2021-10-22T02:51:41.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "move this process"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "extending the bridge"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "make sure that solution gets in place"
+                }
+            ]
+        },
+        {
+            "id": "5393802727522304",
+            "text": "There has been good progress made by counties to establish a vixen resolution programs 27 of 39 counties already have such a program in place.",
+            "from": {},
+            "startTime": "2021-10-22T02:51:42.819Z",
+            "endTime": "2021-10-22T02:51:53.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "made by counties"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "establish a vixen resolution programs"
+                }
+            ]
+        },
+        {
+            "id": "6644514128134144",
+            "text": "As you know, we also have strong tenancy protection, excuse me, preservation policies.",
+            "from": {},
+            "startTime": "2021-10-22T02:51:55.019Z",
+            "endTime": "2021-10-22T02:52:00.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6601295482847232",
+            "text": "Now in place because of House, Bill, 1236, and Senate Bill 5160.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:00.719Z",
+            "endTime": "2021-10-22T02:52:06.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4952986892632064",
+            "text": "I want to thank Senator Cooter and represent of macree as the prime sponsor of those two bills.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:06.319Z",
+            "endTime": "2021-10-22T02:52:11.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6463677201907712",
+            "text": "We did a lot to have a more sustainable situation Washington because of this legislation.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:14.319Z",
+            "endTime": "2021-10-22T02:52:21.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "did a lot"
+                }
+            ]
+        },
+        {
+            "id": "5755729165156352",
+            "text": "Landlords under this must offer, tenants a reasonable repayment, plan for any back rent.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:22.219Z",
+            "endTime": "2021-10-22T02:52:28.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6693950812323840",
+            "text": "Landlords must include information, regarding the tenants, right to legal counsel, and we are one of the first states to provide the right to legal counsel to tenants in this regard.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:29.419Z",
+            "endTime": "2021-10-22T02:52:41.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "provide the right to legal counsel to tenants in this regard"
+                }
+            ]
+        },
+        {
+            "id": "5217554596364288",
+            "text": "Well, they're issuing, a two-week notice to pay or vacate.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:42.619Z",
+            "endTime": "2021-10-22T02:52:45.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5551177442787328",
+            "text": "And they must provide information about the dispute.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:46.519Z",
+            "endTime": "2021-10-22T02:52:49.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "provide information about the dispute"
+                }
+            ]
+        },
+        {
+            "id": "5594439037747200",
+            "text": "Resolution program under local eviction resolution programs.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:49.119Z",
+            "endTime": "2021-10-22T02:52:54.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5900950062497792",
+            "text": "But we do need to see more progress on these relief programs, both for tenants and landlords.",
+            "from": {},
+            "startTime": "2021-10-22T02:52:55.419Z",
+            "endTime": "2021-10-22T02:53:00.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5893976902074368",
+            "text": "Money intended to keep renters housed and keep landlords and business is available and it needs to get distributed as soon as possible obviously, and we're helping local leaders where we can do that.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:01.819Z",
+            "endTime": "2021-10-22T02:53:14.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "intended to keep renters housed and keep landlords and business"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "needs to get distributed as soon as possible obviously"
+                }
+            ]
+        },
+        {
+            "id": "4567483903115264",
+            "text": "We encourage our local governments to redouble their efforts and will continue to rely on the good faith partnership.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:15.919Z",
+            "endTime": "2021-10-22T02:53:22.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "encourage our local governments to redouble their efforts"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "continue to rely on the good faith partnership"
+                }
+            ]
+        },
+        {
+            "id": "5795201512636416",
+            "text": "We have enjoyed with our state landlords, as we navigate these extraordinary times.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:22.119Z",
+            "endTime": "2021-10-22T02:53:27.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "enjoyed with our state landlords"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "navigate these extraordinary times"
+                }
+            ]
+        },
+        {
+            "id": "5428207563046912",
+            "text": "We think this extension provides ample time for these funds to get out to citizens.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:28.619Z",
+            "endTime": "2021-10-22T02:53:34.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "provides ample time for these funds to get out to citizens"
+                }
+            ]
+        },
+        {
+            "id": "6460592207429632",
+            "text": "Our economy is improving, unemployment is down, and we're at the point where this makes sense.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:35.319Z",
+            "endTime": "2021-10-22T02:53:41.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "'re at the point where this makes sense"
+                }
+            ]
+        },
+        {
+            "id": "6434785774796800",
+            "text": "And I would be remiss not to mention that.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:42.919Z",
+            "endTime": "2021-10-22T02:53:45.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6527203912187904",
+            "text": "As I have said, we were the first state in the country to have a right to counsel in eviction proceedings.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:45.619Z",
+            "endTime": "2021-10-22T02:53:50.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "counsel in eviction proceedings"
+                }
+            ]
+        },
+        {
+            "id": "4923133782917120",
+            "text": "This should be standard across the country.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:52.019Z",
+            "endTime": "2021-10-22T02:53:54.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6325034596433920",
+            "text": "Our hope, our leadership will be followed in other places in the future.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:54.019Z",
+            "endTime": "2021-10-22T02:53:57.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4876886044835840",
+            "text": "So our sensual expired October 30th at 11:59.",
+            "from": {},
+            "startTime": "2021-10-22T02:53:58.519Z",
+            "endTime": "2021-10-22T02:54:01.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "our sensual expired"
+                }
+            ]
+        },
+        {
+            "id": "6659978531176448",
+            "text": "Just some advice, practical advice for people, the Washington State office of Attorney.",
+            "from": {},
+            "startTime": "2021-10-22T02:54:04.719Z",
+            "endTime": "2021-10-22T02:54:10.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5627789068730368",
+            "text": "General has information in multiple languages on available resources to help you pay your rent, including state and local rental assistance, programs that's available at this website on your screen.",
+            "from": {},
+            "startTime": "2021-10-22T02:54:10.219Z",
+            "endTime": "2021-10-22T02:54:23.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "help you pay your rent"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "including state and local rental assistance, programs that's available at this website on your screen"
+                }
+            ]
+        },
+        {
+            "id": "4610091199234048",
+            "text": "Www.ge.com, wah dot-gov forward slash landlord tenant.",
+            "from": {},
+            "startTime": "2021-10-22T02:54:27.319Z",
+            "endTime": "2021-10-22T02:54:32.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5846543820128256",
+            "text": "State law provides you the right to representation to legal representation, in the court, may be able to appoint you a lawyer to represent you without cost, if you are a qualifying low income renter.",
+            "from": {},
+            "startTime": "2021-10-22T02:54:33.919Z",
+            "endTime": "2021-10-22T02:54:50.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "provides you the right to representation to legal representation"
+                }
+            ]
+        },
+        {
+            "id": "5140856131551232",
+            "text": "If you believe you're a qualifying low income renter and would like an attorney appointed to represent you.",
+            "from": {},
+            "startTime": "2021-10-22T02:54:51.719Z",
+            "endTime": "2021-10-22T02:54:57.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "believe you're a qualifying low income renter"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "like an attorney appointed to represent you"
+                }
+            ]
+        },
+        {
+            "id": "6626376267333632",
+            "text": "You can contact the eviction defense, screening line at eight five, five, six, five.",
+            "from": {},
+            "startTime": "2021-10-22T02:54:59.019Z",
+            "endTime": "2021-10-22T02:55:04.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6352407496753152",
+            "text": "Seven, eight three eight seven or apply online at the address on your screen.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:04.619Z",
+            "endTime": "2021-10-22T02:55:10.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6089446513442816",
+            "text": "We have got additional information at two other information sources, there on the screen and there are free or low cost mediation services.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:12.119Z",
+            "endTime": "2021-10-22T02:55:19.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "got additional information"
+                }
+            ]
+        },
+        {
+            "id": "5051551010783232",
+            "text": "Also, available at this site.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:19.419Z",
+            "endTime": "2021-10-22T02:55:22.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5117043973029888",
+            "text": "We have this up Joe the, you know, okay.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:22.519Z",
+            "endTime": "2021-10-22T02:55:24.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5811690697392128",
+            "text": "Thank you.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:24.219Z",
+            "endTime": "2021-10-22T02:55:24.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5767531571707904",
+            "text": "I want to touch briefly on Transportation in our state.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:27.619Z",
+            "endTime": "2021-10-22T02:55:30.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5764492643270656",
+            "text": "This is an issue that remained unresolved when the legislature concluded their work in April.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:31.719Z",
+            "endTime": "2021-10-22T02:55:38.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "concluded their work"
+                }
+            ]
+        },
+        {
+            "id": "4566661832114176",
+            "text": "Since then, I have been meeting with legislative leadership House and Senate Republicans and Democrats.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:39.219Z",
+            "endTime": "2021-10-22T02:55:44.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4899667826442240",
+            "text": "And my staff has met regularly with the Four Corners to discuss the need.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:45.119Z",
+            "endTime": "2021-10-22T02:55:49.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "discuss the need"
+                }
+            ]
+        },
+        {
+            "id": "4712994387787776",
+            "text": "For a transportation package that meets the needs of washingtonians.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:49.719Z",
+            "endTime": "2021-10-22T02:55:53.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "meets the needs of washingtonians"
+                }
+            ]
+        },
+        {
+            "id": "6056606119755776",
+            "text": "These include a long-term plan for funding the repair of culverts that block fish Passage.",
+            "from": {},
+            "startTime": "2021-10-22T02:55:54.719Z",
+            "endTime": "2021-10-22T02:56:00.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5764261520343040",
+            "text": "It includes multimodal transportation.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:01.819Z",
+            "endTime": "2021-10-22T02:56:04.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5047740716285952",
+            "text": "Very replacement and electrification.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:05.519Z",
+            "endTime": "2021-10-22T02:56:08.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5506801786159104",
+            "text": "And vehicle electrification as well as an I-5 bridge.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:09.319Z",
+            "endTime": "2021-10-22T02:56:12.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5224166295863296",
+            "text": "Over the Columbia River in a multitude of other needs in the state.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:12.819Z",
+            "endTime": "2021-10-22T02:56:16.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6219535704129536",
+            "text": "It's my understanding that House and Senate Transportation chairs are meeting to determine if there is a possibility of getting a transportation package to my desk.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:18.519Z",
+            "endTime": "2021-10-22T02:56:28.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "determine if there is a possibility of getting a transportation package to my desk"
+                }
+            ]
+        },
+        {
+            "id": "4605676228706304",
+            "text": "And I heartily encourage that be done.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:28.719Z",
+            "endTime": "2021-10-22T02:56:31.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "encourage that be done"
+                }
+            ]
+        },
+        {
+            "id": "6564967294697472",
+            "text": "I would support a special session if an agreement can be made to make that productive.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:32.319Z",
+            "endTime": "2021-10-22T02:56:36.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "support a special session"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "an agreement can be made"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "make that productive"
+                }
+            ]
+        },
+        {
+            "id": "5342604850888704",
+            "text": "I am offering my assistance and my staff and the Washington State Department transportation staff to legislators in this work.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:37.819Z",
+            "endTime": "2021-10-22T02:56:44.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5550116518756352",
+            "text": "I want to know what on a separate subject that on October 1st is an important date for Washington families.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:46.819Z",
+            "endTime": "2021-10-22T02:56:52.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6420297562456064",
+            "text": "Looking for affordable, child care supports.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:53.519Z",
+            "endTime": "2021-10-22T02:56:56.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "child care supports"
+                }
+            ]
+        },
+        {
+            "id": "5687655007256576",
+            "text": "Through the Fair Kids, excuse me, the affair start for kids act, which I signed earlier this year and more families are now eligible for the Working Connections, Child Care Program.",
+            "from": {},
+            "startTime": "2021-10-22T02:56:57.419Z",
+            "endTime": "2021-10-22T02:57:07.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "affair start for kids act"
+                }
+            ]
+        },
+        {
+            "id": "5578231857020928",
+            "text": "That's administered under the department of children, youth and Families.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:09.119Z",
+            "endTime": "2021-10-22T02:57:12.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6406371063889920",
+            "text": "This will mean lower co-payments for many families who lack access to affordable child care, and you can check eligibility and apply online at Washington connection dot org, or you can call 1844 6660 issue, me.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:14.319Z",
+            "endTime": "2021-10-22T02:57:30.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "call 1844 6660 issue"
+                }
+            ]
+        },
+        {
+            "id": "4841268606664704",
+            "text": "86 87.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:30.819Z",
+            "endTime": "2021-10-22T02:57:32.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4928667835695104",
+            "text": "Few comments about covid.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:35.019Z",
+            "endTime": "2021-10-22T02:57:36.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4910361019940864",
+            "text": "Obviously, we still remain very deeply concerned about the pandemic.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:38.819Z",
+            "endTime": "2021-10-22T02:57:43.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "remain very deeply concerned about the pandemic"
+                }
+            ]
+        },
+        {
+            "id": "4697616563568640",
+            "text": "The numbers of cases of hospitalizations and dust are grossly unacceptable in the state of Washington.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:44.919Z",
+            "endTime": "2021-10-22T02:57:52.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4648923609169920",
+            "text": "Providence.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:54.319Z",
+            "endTime": "2021-10-22T02:57:54.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5085809427349504",
+            "text": "See Peters here in Thurston County recently.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:54.819Z",
+            "endTime": "2021-10-22T02:57:57.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5236921811861504",
+            "text": "Had 10 people die in 24 hours, a record throughout the course of this pandemic, which is already been such a hardship to so many.",
+            "from": {},
+            "startTime": "2021-10-22T02:57:57.019Z",
+            "endTime": "2021-10-22T02:58:05.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "been such a hardship"
+                }
+            ]
+        },
+        {
+            "id": "5918526947721216",
+            "text": "We recently passed the 7,000 Mark of washingtonians who had died during the pandemic.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:07.019Z",
+            "endTime": "2021-10-22T02:58:13.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "washingtonians who had died"
+                }
+            ]
+        },
+        {
+            "id": "5604571012399104",
+            "text": "Every one of these heartbreaking.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:15.719Z",
+            "endTime": "2021-10-22T02:58:17.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6628809915760640",
+            "text": "Cases is something that tugs at us particularly now because almost all of them are preventable deaths.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:18.719Z",
+            "endTime": "2021-10-22T02:58:26.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "tugs at us"
+                }
+            ]
+        },
+        {
+            "id": "5665361933369344",
+            "text": "We now have a vaccine that can prevent these deaths.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:28.519Z",
+            "endTime": "2021-10-22T02:58:31.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "a vaccine that can"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "prevent these deaths"
+                }
+            ]
+        },
+        {
+            "id": "6082698448732160",
+            "text": "The 10 people who lost their lives and 24 hours did not have to die.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:33.019Z",
+            "endTime": "2021-10-22T02:58:37.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5709448342405120",
+            "text": "Evac scene was available to them.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:38.219Z",
+            "endTime": "2021-10-22T02:58:40.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4699622732726272",
+            "text": "And we are now involved in an effort to see that it saves more lives in the state of Washington.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:41.519Z",
+            "endTime": "2021-10-22T02:58:45.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5377266914689024",
+            "text": "I know every day we hear stories about families who have been touched by this tragedy.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:47.519Z",
+            "endTime": "2021-10-22T02:58:52.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "hear stories about families who have been touched by this tragedy"
+                }
+            ]
+        },
+        {
+            "id": "5232251559215104",
+            "text": "And every day, we hear of the frustration of people who lost loved ones, because they did not get the vaccine.",
+            "from": {},
+            "startTime": "2021-10-22T02:58:54.019Z",
+            "endTime": "2021-10-22T02:59:00.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "lost loved ones"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "get the vaccine"
+                }
+            ]
+        },
+        {
+            "id": "6157386252288000",
+            "text": "This morning.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:02.119Z",
+            "endTime": "2021-10-22T02:59:02.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5963704756600832",
+            "text": "I read about two daughters ones.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:02.619Z",
+            "endTime": "2021-10-22T02:59:04.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4969147969568768",
+            "text": "Who was a respiratory therapist.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:04.219Z",
+            "endTime": "2021-10-22T02:59:06.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5735991106076672",
+            "text": "Try to talk to her mother and to getting the vaccine.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:07.119Z",
+            "endTime": "2021-10-22T02:59:09.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "talk to her mother"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "getting the vaccine"
+                }
+            ]
+        },
+        {
+            "id": "4621317962727424",
+            "text": "But unfortunately, she had listened to social media misinformation and conservative media that had filled her with deception and untruths about this vaccine.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:11.319Z",
+            "endTime": "2021-10-22T02:59:22.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "filled her with deception and untruths about this vaccine"
+                }
+            ]
+        },
+        {
+            "id": "4699752387051520",
+            "text": "They were unable to convince or even a respiratory therapist, wasn't able to convince her mother to get the vaccine.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:24.819Z",
+            "endTime": "2021-10-22T02:59:31.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "were unable to convince or even a"
+                }
+            ]
+        },
+        {
+            "id": "6102823323303936",
+            "text": "The inning that story is just as sad as you can imagine, because she then contracted covid.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:33.519Z",
+            "endTime": "2021-10-22T02:59:38.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "you can imagine"
+                }
+            ]
+        },
+        {
+            "id": "4881474735046656",
+            "text": "That's sick and 12 Days Later passed away.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:39.919Z",
+            "endTime": "2021-10-22T02:59:42.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5823516470411264",
+            "text": "He's two daughters lost their mother.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:43.419Z",
+            "endTime": "2021-10-22T02:59:45.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "lost their mother"
+                }
+            ]
+        },
+        {
+            "id": "4822395727642624",
+            "text": "Who left this at age, 57.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:45.419Z",
+            "endTime": "2021-10-22T02:59:47.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6746481080926208",
+            "text": "In a preventable death.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:48.819Z",
+            "endTime": "2021-10-22T02:59:50.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4867050636836864",
+            "text": "The reason I mention this is that I want to thank some people who are trying to prevent these deaths.",
+            "from": {},
+            "startTime": "2021-10-22T02:59:52.219Z",
+            "endTime": "2021-10-22T02:59:58.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "want to thank some people who are trying to prevent these deaths"
+                }
+            ]
+        },
+        {
+            "id": "4800953438961664",
+            "text": "I want to thank the family members who were talking to their family members to try to save their lives.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:00.319Z",
+            "endTime": "2021-10-22T03:00:07.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "try to save their lives"
+                }
+            ]
+        },
+        {
+            "id": "6131717568987136",
+            "text": "Sometimes those conversations, involves some degree of tension.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:08.519Z",
+            "endTime": "2021-10-22T03:00:11.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "involves some degree of tension"
+                }
+            ]
+        },
+        {
+            "id": "6061979526496256",
+            "text": "But if they can save a life, it's worth it.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:12.819Z",
+            "endTime": "2021-10-22T03:00:15.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "save a life"
+                }
+            ]
+        },
+        {
+            "id": "6699388194783232",
+            "text": "Those family members are just as important.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:16.419Z",
+            "endTime": "2021-10-22T03:00:18.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6308470371385344",
+            "text": "This effort is as any state or County agency?",
+            "from": {},
+            "startTime": "2021-10-22T03:00:18.419Z",
+            "endTime": "2021-10-22T03:00:21.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5863126823075840",
+            "text": "So if you are, if you are helping someone you love to understand the true facts about this vaccine, not the deception you here in social media to try to save their lives.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:23.219Z",
+            "endTime": "2021-10-22T03:00:34.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "understand the true facts about this vaccine, not the deception you here in social media to try to save their lives"
+                }
+            ]
+        },
+        {
+            "id": "5594436298866688",
+            "text": "Thank you.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:34.719Z",
+            "endTime": "2021-10-22T03:00:35.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6355775678054400",
+            "text": "You're a hero in this effort against this pandemic.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:36.219Z",
+            "endTime": "2021-10-22T03:00:38.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5808741329928192",
+            "text": "Of course.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:40.119Z",
+            "endTime": "2021-10-22T03:00:40.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5879823491661824",
+            "text": "I also want to thank the healthcare workers.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:40.519Z",
+            "endTime": "2021-10-22T03:00:42.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "thank the healthcare workers"
+                }
+            ]
+        },
+        {
+            "id": "5996626968576000",
+            "text": "Who have just been working unbelievably hard for so long.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:43.719Z",
+            "endTime": "2021-10-22T03:00:47.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5424279278583808",
+            "text": "And now they deserve more people to get the vaccine.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:48.319Z",
+            "endTime": "2021-10-22T03:00:51.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "deserve more people to get the vaccine"
+                }
+            ]
+        },
+        {
+            "id": "5832451508142080",
+            "text": "So they are not put through the stress.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:51.619Z",
+            "endTime": "2021-10-22T03:00:53.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "put through the stress"
+                }
+            ]
+        },
+        {
+            "id": "4904706078932992",
+            "text": "Day after day of holding the hand of a dying person, who wish they would have, got the vaccine.",
+            "from": {},
+            "startTime": "2021-10-22T03:00:54.519Z",
+            "endTime": "2021-10-22T03:01:00.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "holding the hand of a dying person, who wish they would have"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "got the vaccine"
+                }
+            ]
+        },
+        {
+            "id": "6468504757731328",
+            "text": "Or healthcare workers deserve people to get the vaccine?",
+            "from": {},
+            "startTime": "2021-10-22T03:01:01.819Z",
+            "endTime": "2021-10-22T03:01:04.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "deserve people to get the vaccine"
+                }
+            ]
+        },
+        {
+            "id": "6043871675940864",
+            "text": "I sent a letter earlier this week to the administration asking for assistance to get more help.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:09.119Z",
+            "endTime": "2021-10-22T03:01:14.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4835852799705088",
+            "text": "Our Healthcare System is extremely strained.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:15.519Z",
+            "endTime": "2021-10-22T03:01:19.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4812854109667328",
+            "text": "People are not getting health care because of covid.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:20.419Z",
+            "endTime": "2021-10-22T03:01:23.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "getting health care"
+                }
+            ]
+        },
+        {
+            "id": "6673217650425856",
+            "text": "We have read multiple stories of people who can't get needed surgery because they has to be deferred because the hospitals are jammed with covid.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:24.919Z",
+            "endTime": "2021-10-22T03:01:32.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "get needed surgery"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "jammed with covid"
+                }
+            ]
+        },
+        {
+            "id": "6632701693001728",
+            "text": "Read about a fellow.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:33.519Z",
+            "endTime": "2021-10-22T03:01:34.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5795925013299200",
+            "text": "Couldn't get a bone marrow transplant, fellows, who can't get heart surgery.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:34.319Z",
+            "endTime": "2021-10-22T03:01:39.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "get a bone marrow transplant"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "get heart surgery"
+                }
+            ]
+        },
+        {
+            "id": "5539873369882624",
+            "text": "Everyone suffering this because of this covid pandemic and everyone has a chance to help our healthcare workers by getting a vaccine as well as themselves.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:40.819Z",
+            "endTime": "2021-10-22T03:01:49.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "has a chance to help our healthcare workers by getting a vaccine as well as themselves"
+                }
+            ]
+        },
+        {
+            "id": "4795678950686720",
+            "text": "I hope that will happen.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:51.119Z",
+            "endTime": "2021-10-22T03:01:52.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "that will happen"
+                }
+            ]
+        },
+        {
+            "id": "4836997395906560",
+            "text": "I want to mention the Canadian border situation.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:54.019Z",
+            "endTime": "2021-10-22T03:01:56.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5845143123918848",
+            "text": "We continue to be extremely disappointed.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:57.419Z",
+            "endTime": "2021-10-22T03:01:59.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6163398120177664",
+            "text": "That the Administration has not opened the border to vaccinate and Canadian citizens.",
+            "from": {},
+            "startTime": "2021-10-22T03:01:59.419Z",
+            "endTime": "2021-10-22T03:02:04.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5313247675678720",
+            "text": "This is an incredible hardship on, not only the Canadian citizens, but Americans and washingtonians who are suffering economically grievously because of this unnecessary, unreasonable restriction.",
+            "from": {},
+            "startTime": "2021-10-22T03:02:06.319Z",
+            "endTime": "2021-10-22T03:02:18.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5061129874178048",
+            "text": "Vaccinated Canadian is no more dangerous than a vaccinated or person from anywhere else and stay Washington or any other state in the United States.",
+            "from": {},
+            "startTime": "2021-10-22T03:02:20.019Z",
+            "endTime": "2021-10-22T03:02:29.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6114125886259200",
+            "text": "We will continue to press the administration.",
+            "from": {},
+            "startTime": "2021-10-22T03:02:32.119Z",
+            "endTime": "2021-10-22T03:02:34.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "continue to press the administration"
+                }
+            ]
+        },
+        {
+            "id": "5355576994299904",
+            "text": "I am writing a letter to the president, urging him to reconsider this policy.",
+            "from": {},
+            "startTime": "2021-10-22T03:02:34.019Z",
+            "endTime": "2021-10-22T03:02:38.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "writing a letter to the president"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "urging him to reconsider this policy"
+                }
+            ]
+        },
+        {
+            "id": "6049033689759744",
+            "text": "I spoke yesterday with leaders of the Point Roberts community.",
+            "from": {},
+            "startTime": "2021-10-22T03:02:39.219Z",
+            "endTime": "2021-10-22T03:02:42.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4601219675848704",
+            "text": "That is exhibit a why this current policy just does not make sense.",
+            "from": {},
+            "startTime": "2021-10-22T03:02:42.919Z",
+            "endTime": "2021-10-22T03:02:47.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6524692849491968",
+            "text": "Now to help Washington businesses who are impacted by this decision.",
+            "from": {},
+            "startTime": "2021-10-22T03:02:49.019Z",
+            "endTime": "2021-10-22T03:02:52.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "impacted by this decision"
+                }
+            ]
+        },
+        {
+            "id": "6665773276725248",
+            "text": "I have announced a new round of your emergency Grant relief funding for businesses that have been in hat, have been impacted by this border closure.",
+            "from": {},
+            "startTime": "2021-10-22T03:02:53.219Z",
+            "endTime": "2021-10-22T03:03:01.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "impacted by this border closure"
+                }
+            ]
+        },
+        {
+            "id": "5702354264391680",
+            "text": "This program will deliver grants of up to $50,000 to businesses impacted by the u.s.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:02.319Z",
+            "endTime": "2021-10-22T03:03:08.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5683246680506368",
+            "text": "Canadian border closure.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:08.319Z",
+            "endTime": "2021-10-22T03:03:09.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5760789173501952",
+            "text": "And is, in addition to the $100,000 of strategic Reserve fund dollars.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:10.419Z",
+            "endTime": "2021-10-22T03:03:15.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5767017266151424",
+            "text": "We have already deployed, The application portal for these new grants will open October 4th to October 18th.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:15.019Z",
+            "endTime": "2021-10-22T03:03:22.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5940905874817024",
+            "text": "This targeted, grant program will prioritize customer facing businesses.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:23.219Z",
+            "endTime": "2021-10-22T03:03:27.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "prioritize customer facing businesses"
+                }
+            ]
+        },
+        {
+            "id": "4639073089093632",
+            "text": "That will require direct person-to-person interaction for businesses, located within 20 miles, radius of the Canadian border.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:27.819Z",
+            "endTime": "2021-10-22T03:03:35.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5634035293356032",
+            "text": "We have today Lacey, Farren back and Nick's truly here to help answer any questions you have.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:37.619Z",
+            "endTime": "2021-10-22T03:03:45.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "help answer any questions you have"
+                }
+            ]
+        },
+        {
+            "id": "6436472891637760",
+            "text": "And with that.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:45.519Z",
+            "endTime": "2021-10-22T03:03:46.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6054567742537728",
+            "text": "I look forward to your questions.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:46.019Z",
+            "endTime": "2021-10-22T03:03:47.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5967168513507328",
+            "text": "How the system is currently structured is part of the reason that there's a backlog, why not streamline the process and have Commerce be responsible for getting that money directly to where it needs to go.",
+            "from": {},
+            "startTime": "2021-10-22T03:03:49.219Z",
+            "endTime": "2021-10-22T03:03:59.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "the system is currently structured"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "'s a backlog"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "streamline the process"
+                }
+            ]
+        },
+        {
+            "id": "5493614412038144",
+            "text": "Well, this is established largely by the federal government.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:00.119Z",
+            "endTime": "2021-10-22T03:04:03.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "established largely by the federal government"
+                }
+            ]
+        },
+        {
+            "id": "5747217869570048",
+            "text": "In the good news is just in the last couple of weeks.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:04.319Z",
+            "endTime": "2021-10-22T03:04:07.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5515936846053376",
+            "text": "They have streamline this process.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:07.519Z",
+            "endTime": "2021-10-22T03:04:09.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5962897302749184",
+            "text": "We believe it will significantly allow us to accelerate the rate of payment.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:10.519Z",
+            "endTime": "2021-10-22T03:04:16.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "allow us to accelerate the rate of payment"
+                }
+            ]
+        },
+        {
+            "id": "5831554115829760",
+            "text": "Certainly King County is in the process of doing that.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:17.719Z",
+            "endTime": "2021-10-22T03:04:20.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5173041152655360",
+            "text": "They now allow personal verification of income status and like and mental status.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:21.119Z",
+            "endTime": "2021-10-22T03:04:25.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4781868818890752",
+            "text": "That will hasten the application process.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:25.419Z",
+            "endTime": "2021-10-22T03:04:27.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "hasten the application process"
+                }
+            ]
+        },
+        {
+            "id": "5260566516989952",
+            "text": "So we believe that streamlining is, is already taking place and Will dramatically accelerate the distribution of funds.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:28.419Z",
+            "endTime": "2021-10-22T03:04:34.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "accelerate the distribution of funds"
+                }
+            ]
+        },
+        {
+            "id": "4864574240063488",
+            "text": "And that's very, very important.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:35.119Z",
+            "endTime": "2021-10-22T03:04:36.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4625079695572992",
+            "text": "And in our discussions with local leaders.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:37.019Z",
+            "endTime": "2021-10-22T03:04:39.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5635801451855872",
+            "text": "They do believe by the end of October.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:39.119Z",
+            "endTime": "2021-10-22T03:04:40.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4521069546307584",
+            "text": "I will be in good shape.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:41.519Z",
+            "endTime": "2021-10-22T03:04:43.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5921578857529344",
+            "text": "I am as certain enough to say that we should have this done by the end of October.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:48.319Z",
+            "endTime": "2021-10-22T03:04:52.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6161741684670464",
+            "text": "That is our present intention.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:52.319Z",
+            "endTime": "2021-10-22T03:04:53.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4854691318988800",
+            "text": "And I am quite confident that we will be able to achieve that for the governor and question for lessee for the governor, for you, considering extending the timeline for state workers to get back side, especially since you're still bargaining with half a dozen of the smaller State unions.",
+            "from": {},
+            "startTime": "2021-10-22T03:04:55.019Z",
+            "endTime": "2021-10-22T03:05:09.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "considering extending the timeline for state workers to get back side"
+                }
+            ]
+        },
+        {
+            "id": "5029594601095168",
+            "text": "And then for a lazy, do you have any sense about what the next three to four weeks in the washer hospital system will go look like in terms of case law to this point?",
+            "from": {},
+            "startTime": "2021-10-22T03:05:09.919Z",
+            "endTime": "2021-10-22T03:05:20.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "go look like"
+                }
+            ]
+        },
+        {
+            "id": "6244967010795520",
+            "text": "Have any videos on it?",
+            "from": {},
+            "startTime": "2021-10-22T03:05:20.819Z",
+            "endTime": "2021-10-22T03:05:22.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5557106657722368",
+            "text": "Lacey, do you want to answer that?",
+            "from": {},
+            "startTime": "2021-10-22T03:05:24.319Z",
+            "endTime": "2021-10-22T03:05:25.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "want to answer that"
+                }
+            ]
+        },
+        {
+            "id": "6030605985775616",
+            "text": "Good afternoon.",
+            "from": {},
+            "startTime": "2021-10-22T03:05:28.919Z",
+            "endTime": "2021-10-22T03:05:29.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5102763273879552",
+            "text": "Thank you everyone like seafaring back.",
+            "from": {},
+            "startTime": "2021-10-22T03:05:29.619Z",
+            "endTime": "2021-10-22T03:05:31.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6565002963058688",
+            "text": "Deputy secretary covid-19 response.",
+            "from": {},
+            "startTime": "2021-10-22T03:05:31.119Z",
+            "endTime": "2021-10-22T03:05:33.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5646969453150208",
+            "text": "So we are due to policy actions that were taken last month.",
+            "from": {},
+            "startTime": "2021-10-22T03:05:33.219Z",
+            "endTime": "2021-10-22T03:05:38.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "policy actions that were taken"
+                }
+            ]
+        },
+        {
+            "id": "5283593866706944",
+            "text": "Seeing some slowdown in growth, both for cases and hospitalizations.",
+            "from": {},
+            "startTime": "2021-10-22T03:05:38.619Z",
+            "endTime": "2021-10-22T03:05:43.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6683006564564992",
+            "text": "But our hospital system is as stressed as it has ever been.",
+            "from": {},
+            "startTime": "2021-10-22T03:05:43.419Z",
+            "endTime": "2021-10-22T03:05:46.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "our hospital system is as stressed"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "it has ever been"
+                }
+            ]
+        },
+        {
+            "id": "5248740743970816",
+            "text": "We hope that continued efforts around masking and vaccinations will lower our disease levels and reduce the number of people being admitted on a regular basis to Hospitals, which will then, you know, make some space and reduce the occupancy, but I think we're in still for a tough few weeks ahead.",
+            "from": {},
+            "startTime": "2021-10-22T03:05:46.919Z",
+            "endTime": "2021-10-22T03:06:08.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "around masking and vaccinations will"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "lower our disease levels"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "think we're in still for a tough few weeks ahead"
+                }
+            ]
+        },
+        {
+            "id": "5674581261025280",
+            "text": "We just shows the rate of fatalities a put up on the screen.",
+            "from": {},
+            "startTime": "2021-10-22T03:06:10.719Z",
+            "endTime": "2021-10-22T03:06:16.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5049979065335808",
+            "text": "The graph showing rate of fatalities during the pandemic.",
+            "from": {},
+            "startTime": "2021-10-22T03:06:16.119Z",
+            "endTime": "2021-10-22T03:06:19.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5427661632438272",
+            "text": "You will see, we had such a steep curve.",
+            "from": {},
+            "startTime": "2021-10-22T03:06:19.919Z",
+            "endTime": "2021-10-22T03:06:21.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "had such a steep curve"
+                }
+            ]
+        },
+        {
+            "id": "6095047876411392",
+            "text": "We're still at a very, very high level of fatalities on a daily basis.",
+            "from": {},
+            "startTime": "2021-10-22T03:06:21.619Z",
+            "endTime": "2021-10-22T03:06:26.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4821972136493056",
+            "text": "And I want to just tell you every single one of those is that is a tragic, not just a number.",
+            "from": {},
+            "startTime": "2021-10-22T03:06:26.919Z",
+            "endTime": "2021-10-22T03:06:32.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6385919113297920",
+            "text": "We also have to be a depth and understanding that we have to drive this pandemic into the ground.",
+            "from": {},
+            "startTime": "2021-10-22T03:06:33.519Z",
+            "endTime": "2021-10-22T03:06:38.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4828027771944960",
+            "text": "Even if this never comes down in the upcoming months, if we don't get more people vaccinated it could come right back up again given all of the changes that are happening more children, going back to school, more people going to large events, or people going inside because it is winter.",
+            "from": {},
+            "startTime": "2021-10-22T03:06:38.919Z",
+            "endTime": "2021-10-22T03:06:55.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "this never comes"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "get more people vaccinated"
+                }
+            ]
+        },
+        {
+            "id": "4638452667645952",
+            "text": "We are we have to get more people vaccinated if we're going to have confidence of getting on top of this pandemic and return to normal seat.",
+            "from": {},
+            "startTime": "2021-10-22T03:06:56.819Z",
+            "endTime": "2021-10-22T03:07:04.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "get more people vaccinated"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "getting on top of this pandemic"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "return to normal seat"
+                }
+            ]
+        },
+        {
+            "id": "5611261216686080",
+            "text": "No, we are not considering extending the deadline for vaccination of state employees.",
+            "from": {},
+            "startTime": "2021-10-22T03:07:05.719Z",
+            "endTime": "2021-10-22T03:07:10.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "considering extending the deadline for vaccination of state employees"
+                }
+            ]
+        },
+        {
+            "id": "5414998135275520",
+            "text": "This vaccine is readily available and people have had a chance and still have a chance to get it, and we heartily encourage it.",
+            "from": {},
+            "startTime": "2021-10-22T03:07:11.619Z",
+            "endTime": "2021-10-22T03:07:18.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "had a chance"
+                }
+            ]
+        },
+        {
+            "id": "6011028719534080",
+            "text": "The impact bargaining, we have is not the completion of those things are not necessary to the application of the Policy, and I am pleased to say we have reached a conclusion with quite a number of our bargaining units.",
+            "from": {},
+            "startTime": "2021-10-22T03:07:19.919Z",
+            "endTime": "2021-10-22T03:07:32.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "am pleased to say we have reached a conclusion with quite a number of our bargaining units"
+                }
+            ]
+        },
+        {
+            "id": "4725737555755008",
+            "text": "Very happy about that.",
+            "from": {},
+            "startTime": "2021-10-22T03:07:32.619Z",
+            "endTime": "2021-10-22T03:07:33.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6625480632434688",
+            "text": "But possible effects of the vaccine mandates and services especially Eastern Washington, that healthcare workers and Hospital administrators want people vaccinated because one of the huge problems we have had for months now in our staffing is because their staff get covid.",
+            "from": {},
+            "startTime": "2021-10-22T03:07:41.619Z",
+            "endTime": "2021-10-22T03:08:04.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "want people vaccinated"
+                }
+            ]
+        },
+        {
+            "id": "6231710325800960",
+            "text": "And when they get covid, they can't work.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:04.019Z",
+            "endTime": "2021-10-22T03:08:06.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6220690781896704",
+            "text": "When they're exposed to covid, they have to be quarantined.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:07.319Z",
+            "endTime": "2021-10-22T03:08:09.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "exposed to covid"
+                }
+            ]
+        },
+        {
+            "id": "5316873538240512",
+            "text": "So we are trying to reduce the staff shortages that are caused by covid.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:10.419Z",
+            "endTime": "2021-10-22T03:08:14.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "reduce the staff shortages that are caused by covid"
+                }
+            ]
+        },
+        {
+            "id": "6257857281392640",
+            "text": "And the best way to do that is get people vaccinated.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:14.319Z",
+            "endTime": "2021-10-22T03:08:17.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "get people vaccinated"
+                }
+            ]
+        },
+        {
+            "id": "4930661652627456",
+            "text": "So this is a strategy designed to reduce the Staffing shortage long-term by getting people vaccinated because it is the covid virus that is hollowing out these hospitals and every hospital administrator will tell you that.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:17.019Z",
+            "endTime": "2021-10-22T03:08:32.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "getting people vaccinated"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "tell you that"
+                }
+            ]
+        },
+        {
+            "id": "5750979602415616",
+            "text": "Same thing with long-term care facilities.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:33.319Z",
+            "endTime": "2021-10-22T03:08:35.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5467656032354304",
+            "text": "So this is a system that we believe is the best strategy to increase Staffing available in our medical community.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:35.919Z",
+            "endTime": "2021-10-22T03:08:43.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5399947349327872",
+            "text": "No, no, we believe that at the end of the day the vast majority of people who have gone into public service.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:46.819Z",
+            "endTime": "2021-10-22T03:08:55.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "gone into public service"
+                }
+            ]
+        },
+        {
+            "id": "5956223460442112",
+            "text": "People have gone into Healthcare people.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:55.019Z",
+            "endTime": "2021-10-22T03:08:57.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4983710471421952",
+            "text": "Have gone in education will have a discussion with their family and conclude that if you really look at the Medical Science, this is a healthy thing to do and not lose a career, and we want these people to stay.",
+            "from": {},
+            "startTime": "2021-10-22T03:08:57.519Z",
+            "endTime": "2021-10-22T03:09:09.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "gone in education"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "lose a career"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "want these people to stay"
+                }
+            ]
+        },
+        {
+            "id": "5838894294630400",
+            "text": "Look, these people are very valuable to us.",
+            "from": {},
+            "startTime": "2021-10-22T03:09:09.119Z",
+            "endTime": "2021-10-22T03:09:11.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5422134223437824",
+            "text": "The state employees that we have hard work.",
+            "from": {},
+            "startTime": "2021-10-22T03:09:12.319Z",
+            "endTime": "2021-10-22T03:09:15.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6251757488308224",
+            "text": "And people do great work, very important work, and we want them to keep working with us.",
+            "from": {},
+            "startTime": "2021-10-22T03:09:15.019Z",
+            "endTime": "2021-10-22T03:09:20.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "do great work, very important work"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "want them to keep working with us"
+                }
+            ]
+        },
+        {
+            "id": "6190079207800832",
+            "text": "We also want them to not Lose their lives, and so we can have both of those things, and I am confident Washington state will continue to provide high level of services to Citizens, and we are going to get more people to save lives in our state.",
+            "from": {},
+            "startTime": "2021-10-22T03:09:20.119Z",
+            "endTime": "2021-10-22T03:09:35.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "get more people to save lives in our state"
+                }
+            ]
+        },
+        {
+            "id": "4843782852837376",
+            "text": "Of the fact that we had so many people get covid and Healthcare System and couldn't work that pre-existed.",
+            "from": {},
+            "startTime": "2021-10-22T03:09:53.019Z",
+            "endTime": "2021-10-22T03:09:58.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4994310035472384",
+            "text": "Anything we did about a vaccine mandate that has been a long-term concern of ours.",
+            "from": {},
+            "startTime": "2021-10-22T03:09:58.819Z",
+            "endTime": "2021-10-22T03:10:04.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6111769996034048",
+            "text": "Now.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:04.119Z",
+            "endTime": "2021-10-22T03:10:04.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5499029573074944",
+            "text": "We're still, we don't know.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:04.419Z",
+            "endTime": "2021-10-22T03:10:06.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5245791376506880",
+            "text": "We have not had a response from the federal government.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:06.819Z",
+            "endTime": "2021-10-22T03:10:08.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "had a response from the federal government"
+                }
+            ]
+        },
+        {
+            "id": "4835568996319232",
+            "text": "We have to understand.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:08.719Z",
+            "endTime": "2021-10-22T03:10:09.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4539414156935168",
+            "text": "The whole country is in need of healthcare for workers to The whole country is short of healthcare workers.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:09.619Z",
+            "endTime": "2021-10-22T03:10:14.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6050599192756224",
+            "text": "Usually one state that has a mandate at least of the type.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:14.919Z",
+            "endTime": "2021-10-22T03:10:17.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "has a mandate at least of the type"
+                }
+            ]
+        },
+        {
+            "id": "6690266871234560",
+            "text": "I have proposed.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:17.919Z",
+            "endTime": "2021-10-22T03:10:18.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6228663180722176",
+            "text": "So it's not my mandate that's causing this problem.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:19.319Z",
+            "endTime": "2021-10-22T03:10:21.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5331026948653056",
+            "text": "It's covid and it's unvaccinated people.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:21.619Z",
+            "endTime": "2021-10-22T03:10:24.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "'s unvaccinated people"
+                }
+            ]
+        },
+        {
+            "id": "6481476901142528",
+            "text": "That's the fundamental problem.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:24.119Z",
+            "endTime": "2021-10-22T03:10:25.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5000329566355456",
+            "text": "We have found that testing does not say People's lives.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:40.719Z",
+            "endTime": "2021-10-22T03:10:43.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5382323823443968",
+            "text": "Just is not adequate to the task.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:44.819Z",
+            "endTime": "2021-10-22T03:10:47.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5243264807469056",
+            "text": "As I discussed with you before I went to a funeral service, for a state employee Department of Correction Officer.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:48.219Z",
+            "endTime": "2021-10-22T03:10:54.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "discussed with you"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "went to a funeral service"
+                }
+            ]
+        },
+        {
+            "id": "5400754803179520",
+            "text": "We tested negative 30 times and then died of covid.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:54.719Z",
+            "endTime": "2021-10-22T03:10:57.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5226686636359680",
+            "text": "So it is not adequate to the task and I believe at the end of the day, people will decide to remain in public service by and large that the vast majority of Washington employees will continue to work.",
+            "from": {},
+            "startTime": "2021-10-22T03:10:59.419Z",
+            "endTime": "2021-10-22T03:11:11.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6007471760998400",
+            "text": "We have over 60,000 people in the vast majority of those people.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:11.919Z",
+            "endTime": "2021-10-22T03:11:17.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6534114061582336",
+            "text": "I believe we will both be in public service and be vaccinated and that will be a success.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:17.419Z",
+            "endTime": "2021-10-22T03:11:22.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4850007858479104",
+            "text": "For those who do decide to leave public service, we have plans to be able to deal with that.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:23.819Z",
+            "endTime": "2021-10-22T03:11:29.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "decide to leave public service"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "deal with that"
+                }
+            ]
+        },
+        {
+            "id": "6467607365419008",
+            "text": "This is not an untoward situation.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:30.519Z",
+            "endTime": "2021-10-22T03:11:33.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4535394390507520",
+            "text": "We have about 10% replacement, every year in the state of Washington.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:33.319Z",
+            "endTime": "2021-10-22T03:11:37.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6352586543202304",
+            "text": "We know how to do this.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:37.819Z",
+            "endTime": "2021-10-22T03:11:39.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6548034130280448",
+            "text": "Don't want to have to do that.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:39.919Z",
+            "endTime": "2021-10-22T03:11:41.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4637148553674752",
+            "text": "We want people to stay, but we have contingency plans in place for those who do want to leave public service.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:41.319Z",
+            "endTime": "2021-10-22T03:11:48.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "want people to stay, but we have contingency plans in place for those who do want to leave public service"
+                }
+            ]
+        },
+        {
+            "id": "6056561559470080",
+            "text": "Very few eccentric taking advantage of these workers and their, I am happy that it's needed said, even for another month.",
+            "from": {},
+            "startTime": "2021-10-22T03:11:54.919Z",
+            "endTime": "2021-10-22T03:12:03.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "taking advantage of these workers"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "am happy that it's needed said, even for another month"
+                }
+            ]
+        },
+        {
+            "id": "5568767615565824",
+            "text": "Well, I am not sure, I understand your question because if they are successful working for their tenant and the tenants paying the rent, this moratorium is not a problem for them.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:04.419Z",
+            "endTime": "2021-10-22T03:12:13.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "am not sure"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "understand your question"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "working for their tenant"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "paying the rent"
+                }
+            ]
+        },
+        {
+            "id": "4824335442247680",
+            "text": "So, I am not sure.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:13.919Z",
+            "endTime": "2021-10-22T03:12:14.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "am not sure"
+                }
+            ]
+        },
+        {
+            "id": "4603820546981888",
+            "text": "I understand your question for those who are paying in rent.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:14.519Z",
+            "endTime": "2021-10-22T03:12:17.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "paying in rent"
+                }
+            ]
+        },
+        {
+            "id": "4931903569264640",
+            "text": "This moratorium is of doesn't mean anything to them.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:17.419Z",
+            "endTime": "2021-10-22T03:12:20.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "mean anything to them"
+                }
+            ]
+        },
+        {
+            "id": "6614938970750976",
+            "text": "Doesn't stop them.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:20.919Z",
+            "endTime": "2021-10-22T03:12:21.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5529141253242880",
+            "text": "They're going to continue to pay rent.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:21.719Z",
+            "endTime": "2021-10-22T03:12:23.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "continue to pay rent"
+                }
+            ]
+        },
+        {
+            "id": "5915211757256704",
+            "text": "Take advantage of a moratorium can still do that.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:25.219Z",
+            "endTime": "2021-10-22T03:12:27.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5613637809995776",
+            "text": "They were few tenants doing that, and they think that after all this time, the moratorium is no longer necessary.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:27.819Z",
+            "endTime": "2021-10-22T03:12:36.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "were few tenants doing that"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "think that after all this time, the moratorium is no longer necessary"
+                }
+            ]
+        },
+        {
+            "id": "5478698259054592",
+            "text": "Well, I can understand their, their feelings about that.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:36.519Z",
+            "endTime": "2021-10-22T03:12:39.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4640904355774464",
+            "text": "It has been quite a period of time.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:39.819Z",
+            "endTime": "2021-10-22T03:12:41.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4944357552553984",
+            "text": "We did not think it made sense to end the moratorium while we had millions of dollars sitting in our pockets, not distributed to these tenants.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:42.119Z",
+            "endTime": "2021-10-22T03:12:52.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "end the moratorium"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "had millions of dollars sitting in our pockets, not distributed to these tenants"
+                }
+            ]
+        },
+        {
+            "id": "5766804262617088",
+            "text": "Our basic idea was to create a bridge situation where we can get to a more long-term sustainable situation and that's in.",
+            "from": {},
+            "startTime": "2021-10-22T03:12:53.819Z",
+            "endTime": "2021-10-22T03:13:02.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4731563666309120",
+            "text": "So that's what we're doing.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:02.819Z",
+            "endTime": "2021-10-22T03:13:03.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6047682977071104",
+            "text": "It's a relatively short continuation.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:03.919Z",
+            "endTime": "2021-10-22T03:13:07.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6624929479917568",
+            "text": "It will allow the rental program to work.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:07.219Z",
+            "endTime": "2021-10-22T03:13:10.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5764972995936256",
+            "text": "I believe it will work, and we will have a relatively sustainable position for those.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:10.919Z",
+            "endTime": "2021-10-22T03:13:16.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "believe it will work"
+                }
+            ]
+        },
+        {
+            "id": "4571485537566720",
+            "text": "Now.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:16.719Z",
+            "endTime": "2021-10-22T03:13:17.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5992950543679488",
+            "text": "I am sure there were those who criticize us to, for not doing this.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:17.319Z",
+            "endTime": "2021-10-22T03:13:20.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4616881328619520",
+            "text": "You know, long, long enough extension, but we have to understand that at some point, this moratorium.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:21.619Z",
+            "endTime": "2021-10-22T03:13:27.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "understand that at some point, this moratorium"
+                }
+            ]
+        },
+        {
+            "id": "5595663204089856",
+            "text": "We had to come to an end and this is a reasonable time.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:27.719Z",
+            "endTime": "2021-10-22T03:13:30.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "come to an end"
+                }
+            ]
+        },
+        {
+            "id": "6369164714311680",
+            "text": "Given the fact unemployment is down.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:30.919Z",
+            "endTime": "2021-10-22T03:13:32.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4945032613199872",
+            "text": "We have had a period of time, and we now have a rental assistance program, also available.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:33.619Z",
+            "endTime": "2021-10-22T03:13:37.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "had a period of time"
+                }
+            ]
+        },
+        {
+            "id": "5920332713033728",
+            "text": "So we think it's a reasonable position.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:37.119Z",
+            "endTime": "2021-10-22T03:13:39.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "'s a reasonable position"
+                }
+            ]
+        },
+        {
+            "id": "4985073842520064",
+            "text": "It's been hard and everyone, and we're looking forward to a more stable situation.",
+            "from": {},
+            "startTime": "2021-10-22T03:13:39.319Z",
+            "endTime": "2021-10-22T03:13:43.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6713880534319104",
+            "text": "Hotel stays is going to work.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:15.119Z",
+            "endTime": "2021-10-22T03:14:16.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5184267916148736",
+            "text": "Are you do you have confidence in Secretary Hunters?",
+            "from": {},
+            "startTime": "2021-10-22T03:14:18.019Z",
+            "endTime": "2021-10-22T03:14:20.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6709680861609984",
+            "text": "The way he's doing his job and his dcyf doing mission that it was intended to do.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:21.119Z",
+            "endTime": "2021-10-22T03:14:25.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "intended to do"
+                }
+            ]
+        },
+        {
+            "id": "5729720453824512",
+            "text": "Yes.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:26.519Z",
+            "endTime": "2021-10-22T03:14:27.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5969682759680000",
+            "text": "I have confidence from moving in.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:27.119Z",
+            "endTime": "2021-10-22T03:14:28.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5876126212685824",
+            "text": "The right direction.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:28.319Z",
+            "endTime": "2021-10-22T03:14:29.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5532097922990080",
+            "text": "We have more work to do.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:29.019Z",
+            "endTime": "2021-10-22T03:14:30.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "more work to do"
+                }
+            ]
+        },
+        {
+            "id": "6379326606934016",
+            "text": "There have been some recent proposals on how to have a better situation.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:30.919Z",
+            "endTime": "2021-10-22T03:14:34.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5622380887015424",
+            "text": "We obviously want to have the best situation possible and will continue to seek insight and suggestions on how we can improve it, and we will continue to do that.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:34.119Z",
+            "endTime": "2021-10-22T03:14:43.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "want to have the best situation possible"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "continue to seek insight and suggestions on how we can improve it"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "continue to do that"
+                }
+            ]
+        },
+        {
+            "id": "6211709334192128",
+            "text": "Maria.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:52.119Z",
+            "endTime": "2021-10-22T03:14:52.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5493656166334464",
+            "text": "Good afternoon, Governor hospitals, around the state are desperate for, monoclonal antibody treatment.",
+            "from": {},
+            "startTime": "2021-10-22T03:14:55.219Z",
+            "endTime": "2021-10-22T03:15:00.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4653068374245376",
+            "text": "I spoke to one in Yakima today that says, they have enough for 41 people when hundreds of locals in the area or testing positive for covid.",
+            "from": {},
+            "startTime": "2021-10-22T03:15:00.019Z",
+            "endTime": "2021-10-22T03:15:07.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6071111566491648",
+            "text": "What is the plan to get more of this life-saving treatment and to distribute it to more facilities around the state?",
+            "from": {},
+            "startTime": "2021-10-22T03:15:07.619Z",
+            "endTime": "2021-10-22T03:15:13.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5282193170497536",
+            "text": "Well, this is now a National Distribution decision, the federal government allocates it to States, depending on usage and population.",
+            "from": {},
+            "startTime": "2021-10-22T03:15:13.919Z",
+            "endTime": "2021-10-22T03:15:23.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "depending on usage and population"
+                }
+            ]
+        },
+        {
+            "id": "5268604162408448",
+            "text": "So we're making Orders, but there's only so much to go around and the federal government controls the distribution at this, at this point.",
+            "from": {},
+            "startTime": "2021-10-22T03:15:24.219Z",
+            "endTime": "2021-10-22T03:15:31.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "'s only so much to go around"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "controls the distribution at this"
+                }
+            ]
+        },
+        {
+            "id": "5305814832119808",
+            "text": "So I know that there are people that would want this treatment.",
+            "from": {},
+            "startTime": "2021-10-22T03:15:32.119Z",
+            "endTime": "2021-10-22T03:15:34.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "want this treatment"
+                }
+            ]
+        },
+        {
+            "id": "6725832891432960",
+            "text": "We think it can be very beneficial.",
+            "from": {},
+            "startTime": "2021-10-22T03:15:34.519Z",
+            "endTime": "2021-10-22T03:15:36.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6043723151441920",
+            "text": "Now, we wish more people wouldn't have to get that treatment and it is always a little frustrating to me to people who will accept the monoclonal antibody, but didn't get the vaccine that could have prevented them from getting sick in the first place.",
+            "from": {},
+            "startTime": "2021-10-22T03:15:37.419Z",
+            "endTime": "2021-10-22T03:15:49.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "accept the monoclonal antibody"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "get the vaccine that could have prevented them from getting sick in the first place"
+                }
+            ]
+        },
+        {
+            "id": "4954677029371904",
+            "text": "We need people to get the vaccine.",
+            "from": {},
+            "startTime": "2021-10-22T03:15:50.519Z",
+            "endTime": "2021-10-22T03:15:52.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "get the vaccine"
+                }
+            ]
+        },
+        {
+            "id": "6704131763863552",
+            "text": "There's not enough, monoclonal antibodies available in the United States, to treat everyone who could use it frankly for covid.",
+            "from": {},
+            "startTime": "2021-10-22T03:15:52.919Z",
+            "endTime": "2021-10-22T03:16:00.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "treat everyone who could use it frankly for covid"
+                }
+            ]
+        },
+        {
+            "id": "5549649642389504",
+            "text": "That's just a physical reality, but we got plenty of vaccine to keep you from getting sick before.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:00.419Z",
+            "endTime": "2021-10-22T03:16:06.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "'s just a physical reality"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "got plenty of vaccine to keep you from getting sick before"
+                }
+            ]
+        },
+        {
+            "id": "5160114496471040",
+            "text": "You have to go to the hospital.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:07.219Z",
+            "endTime": "2021-10-22T03:16:08.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "go to the hospital"
+                }
+            ]
+        },
+        {
+            "id": "4563434164191232",
+            "text": "We really hope people do that.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:08.319Z",
+            "endTime": "2021-10-22T03:16:09.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "hope people do that"
+                }
+            ]
+        },
+        {
+            "id": "6431714738962432",
+            "text": "Billy there from Yakima.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:20.519Z",
+            "endTime": "2021-10-22T03:16:22.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4584235898765312",
+            "text": "You muted?",
+            "from": {},
+            "startTime": "2021-10-22T03:16:24.519Z",
+            "endTime": "2021-10-22T03:16:24.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4552942968373248",
+            "text": "Yeah, can you hear me?",
+            "from": {},
+            "startTime": "2021-10-22T03:16:24.919Z",
+            "endTime": "2021-10-22T03:16:26.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5337823063310336",
+            "text": "Yeah.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:26.219Z",
+            "endTime": "2021-10-22T03:16:26.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5943460562468864",
+            "text": "Go ahead.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:29.319Z",
+            "endTime": "2021-10-22T03:16:29.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6517072919003136",
+            "text": "Phil heard you for a minute.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:29.619Z",
+            "endTime": "2021-10-22T03:16:32.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6553727713411072",
+            "text": "And we lost you.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:34.419Z",
+            "endTime": "2021-10-22T03:16:35.319Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5258457235062784",
+            "text": "Can you hear me?",
+            "from": {},
+            "startTime": "2021-10-22T03:16:37.519Z",
+            "endTime": "2021-10-22T03:16:38.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5757285272911872",
+            "text": "I can now.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:38.619Z",
+            "endTime": "2021-10-22T03:16:39.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5253500037496832",
+            "text": "Yes.",
+            "from": {},
+            "startTime": "2021-10-22T03:16:39.419Z",
+            "endTime": "2021-10-22T03:16:39.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6394504069251072",
+            "text": "Will you keep moving yourself?",
+            "from": {},
+            "startTime": "2021-10-22T03:16:42.019Z",
+            "endTime": "2021-10-22T03:16:43.419Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "keep moving yourself"
+                }
+            ]
+        },
+        {
+            "id": "6377671836565504",
+            "text": "Reasonable steps to save public lives.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:10.219Z",
+            "endTime": "2021-10-22T03:17:13.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "save public lives"
+                }
+            ]
+        },
+        {
+            "id": "5480773198020608",
+            "text": "We think we're a good grounds in this regard.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:13.919Z",
+            "endTime": "2021-10-22T03:17:16.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5827811399958528",
+            "text": "We know people have the right to go to the judicial system and have executive actions reviewed but that's been done over 30 times already during this pandemic and so far, not a single action of ours has been initiated by the judicial system.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:16.619Z",
+            "endTime": "2021-10-22T03:17:31.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "know people have the right to go to the judicial system and have executive actions reviewed"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "initiated by the judicial system"
+                }
+            ]
+        },
+        {
+            "id": "4588116334608384",
+            "text": "So we do believe what?",
+            "from": {},
+            "startTime": "2021-10-22T03:17:31.719Z",
+            "endTime": "2021-10-22T03:17:32.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5232975059877888",
+            "text": "Grounds, we intend to save lives.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:32.819Z",
+            "endTime": "2021-10-22T03:17:35.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "intend to save lives"
+                }
+            ]
+        },
+        {
+            "id": "5433677015154688",
+            "text": "That's right.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:35.119Z",
+            "endTime": "2021-10-22T03:17:35.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5706797798129664",
+            "text": "Thing to do.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:35.519Z",
+            "endTime": "2021-10-22T03:17:36.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5146474552754176",
+            "text": "Well, we might have to wait till next.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:43.919Z",
+            "endTime": "2021-10-22T03:17:45.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5854388858912768",
+            "text": "I think I am set up now.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:45.719Z",
+            "endTime": "2021-10-22T03:17:48.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4619284950024192",
+            "text": "If taking Henry furth grab.",
+            "from": {},
+            "startTime": "2021-10-22T03:17:48.319Z",
+            "endTime": "2021-10-22T03:17:50.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6440290953986048",
+            "text": "Briefly try again.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:01.119Z",
+            "endTime": "2021-10-22T03:18:02.919Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4744358575210496",
+            "text": "The question will try to help you out there.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:10.019Z",
+            "endTime": "2021-10-22T03:18:12.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "try to help you out there"
+                }
+            ]
+        },
+        {
+            "id": "6162682806796288",
+            "text": "Sorry.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:12.719Z",
+            "endTime": "2021-10-22T03:18:13.019Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6739537716838400",
+            "text": "Phil will be back to, you know, I want again.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:13.019Z",
+            "endTime": "2021-10-22T03:18:17.619Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4544020173815808",
+            "text": "I want to thank people for their continued work during this pandemic.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:17.619Z",
+            "endTime": "2021-10-22T03:18:21.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4812160820576256",
+            "text": "Thank to everyone who's helping save lives because everybody can save lives in state of Washington.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:22.819Z",
+            "endTime": "2021-10-22T03:18:27.719Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6463722970152960",
+            "text": "Let us not let misinformation kill a single more life in the state of Washington.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:28.719Z",
+            "endTime": "2021-10-22T03:18:33.819Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "6175878972178432",
+            "text": "Let us not let another mother son or daughter fall victim of covid because they listen to social media.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:34.519Z",
+            "endTime": "2021-10-22T03:18:41.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "let another mother son or daughter fall victim of covid"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "listen to social media"
+                }
+            ]
+        },
+        {
+            "id": "5291438905491456",
+            "text": "Speak up.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:42.719Z",
+            "endTime": "2021-10-22T03:18:43.519Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "5731576135548928",
+            "text": "Let us wrap around our arms around each other and save each other.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:43.819Z",
+            "endTime": "2021-10-22T03:18:47.219Z",
+            "conversationId": "5857535178309632",
+            "phrases": [
+                {
+                    "type": "action_phrase",
+                    "text": "wrap around our arms around each other"
+                },
+                {
+                    "type": "action_phrase",
+                    "text": "save each other"
+                }
+            ]
+        },
+        {
+            "id": "5063279371091968",
+            "text": "If we do this, it's going to be a brighter day in Washington.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:47.819Z",
+            "endTime": "2021-10-22T03:18:50.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        },
+        {
+            "id": "4973772105842688",
+            "text": "Thanks very much.",
+            "from": {},
+            "startTime": "2021-10-22T03:18:50.319Z",
+            "endTime": "2021-10-22T03:18:51.119Z",
+            "conversationId": "5857535178309632",
+            "phrases": []
+        }
+    ]
+}
