@@ -35,7 +35,7 @@ function Update-TranscriptVideoTimes {
         $lastDateTime = $endDateTime
     }
 
-    $result = ConvertTo-Json $Obj
+    $result = ConvertTo-Json $Obj -Depth 4
 
     $result | Out-File -FilePath $OutputPath -NoClobber
 
