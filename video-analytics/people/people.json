@@ -1,0 +1,26 @@
+[
+    {
+        "id": "lyndawilson",
+        "name": "Lynda Wilson",
+        "info": {
+            "office": "Washington State Senator"
+        },
+        "headshot": "wilson.jpg"
+    },
+    {
+        "id": "christinerolfes",
+        "name": "Christine Rolfes",
+        "info": {
+            "office": "Washington State Senator"
+        },
+        "headshot": "rolfes.jpg"
+    },
+    {
+        "id": "junerobinson",
+        "name": "June Robinson",
+        "info": {
+            "office": "Washington State Senator"
+        },
+        "headshot": "robinson.jpg"
+    }
+]
