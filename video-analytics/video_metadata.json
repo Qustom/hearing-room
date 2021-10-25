@@ -1,0 +1,34 @@
+{
+    "videos": [
+        {
+            "id": "2021041286-April25",
+            "name": "Senate Floor Debate - April 25",
+            "url": "https://www.tvw.org/watch/?eventID=2021041286"
+        },
+        {
+            "id": "2021041285-April25",
+            "name": "Senate Floor Debate - April 25",
+            "url": "https://www.tvw.org/watch/?eventID=2021041285"
+        },
+        {
+            "id": "2021041283-April24",
+            "name": "Senate Floor Debate - April 24",
+            "url": "https://www.tvw.org/watch/?eventID=2021041283"
+        },
+        {
+            "id": "2021041282-April24",
+            "name": "Senate Floor Debate - April 24",
+            "url": "https://www.tvw.org/watch/?eventID=2021041282"
+        },
+        {
+            "id": "2021041281-April24",
+            "name": "Senate Floor Debate - April 24",
+            "url": "https://www.tvw.org/watch/?eventID=2021041281"
+        },
+        {
+            "id": "2021041279-April23",
+            "name":"Senate Floor Debate - April 23",
+            "url": "https://www.tvw.org/watch/?eventID=2021041279"
+        }
+    ]
+}
