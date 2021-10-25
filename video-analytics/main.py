@@ -1,14 +1,15 @@
 import cv2
 import face_recognition
 import json
+import os
 
 # Some variables to speed up processing
 # Number of frame skips until processing images
 SKIP_FRAME_COUNT = 60 # Higher faster, less data
 # How much times to shrink the image for processing
-RECOG_RESIZE = 1 # Higher faster, less accurate, Minimum of 1.
+RECOG_RESIZE = 1 # Higher faster, less accurate, Minimum of 1. Whole Number.
 
-def process_video(filename: str) -> None:
+def process_video(filename: str, output_folder:str) -> None:
     mov = cv2.VideoCapture(filename)
 
     if not mov.isOpened():
@@ -16,7 +17,7 @@ def process_video(filename: str) -> None:
         return
 
     known_faces = []
-    timestamps = []
+    timestamps = {}
 
     # create a frame on GPU for resizing images
     gpu_frame = cv2.cuda_GpuMat()
@@ -53,13 +54,14 @@ def process_video(filename: str) -> None:
                 if any(matches):
                     for index, match in enumerate(matches):
                         if match:
-                            timestamps[index].append(mov.get(cv2.CAP_PROP_POS_MSEC))
+                            timestamps[f"face-{index}"].append(mov.get(cv2.CAP_PROP_POS_MSEC))
                 # Otherwise, add tne new encoding to the list, save image to file, and setup timestamping
                 else:
+                    img_name = f"face-{len(known_faces)}"
                     known_faces.append(face_encoding)
                     img = frame[pos[0]*RECOG_RESIZE: pos[2]*RECOG_RESIZE, pos[3]*RECOG_RESIZE: pos[1]*RECOG_RESIZE]
-                    cv2.imwrite(f"output/face-{len(known_faces)}.png", img)
-                    timestamps.append([mov.get(cv2.CAP_PROP_POS_MSEC)])
+                    cv2.imwrite(f"{output_folder}/{img_name}.png", img)
+                    timestamps[img_name] = [mov.get(cv2.CAP_PROP_POS_MSEC)]
         else:
             skip_processing -= 1
                 
@@ -70,7 +72,17 @@ def process_video(filename: str) -> None:
 
     # Save timestamp data to file
     data = {"timestamps": timestamps}
-    with open(r"output\data.json", 'w') as outfile:
+    with open(f"{output_folder}\data.json", 'w') as outfile:
         json.dump(data, outfile)
 
-process_video(r"C:\Users\qustom\source\ai-news-reader\video-analytics\raw_data\pexal.mp4")
+def process_all(intake_folder: str, output_folder: str) -> None:
+    files = os.listdir(intake_folder)
+    for file in files:
+        output_path = output_folder + "\\" + file.removesuffix(".mp4")
+        os.mkdir(output_path)
+        process_video(intake_folder + "\\" + file, output_path)
+
+
+process_all(r"C:\Users\qustom\source\ai-news-reader\video-analytics\raw_data", r"C:\Users\qustom\source\ai-news-reader\video-analytics\output")
+
+#process_video(r"C:\Users\qustom\source\ai-news-reader\video-analytics\raw_data\vid.mp4", "output")
