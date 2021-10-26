@@ -3,8 +3,6 @@ import face_recognition
 import json
 import os
 
-from face_recognition.api import batch_face_locations
-
 # Some variables to speed up processing
 # Number of frame skips until processing images
 SKIP_FRAME_COUNT = 60 # Higher faster, less data
@@ -75,7 +73,6 @@ def process_video(filename: str, output_folder:str) -> None:
             batch_frame_count += 1
         else:
             skip_processing -= 1
-            frame.release()
         print(f"Time (MSEC): {mov.get(cv2.CAP_PROP_POS_MSEC)}")
 
         if cv2.waitKey(1) == 27:
@@ -94,6 +91,7 @@ def process_all(intake_folder: str, output_folder: str) -> None:
         process_video(intake_folder + "\\" + file, output_path)
 
 
-process_all(r"C:\Users\qustom\source\ai-news-reader\video-analytics\raw_data", r"C:\Users\qustom\source\ai-news-reader\video-analytics\output")
+process_all(r"C:\Users\qustom\source\ai-news-reader\video-analytics\raw_data",
+            r"C:\Users\qustom\source\ai-news-reader\prod_data\faces")
 
 #process_video(r"C:\Users\qustom\source\ai-news-reader\video-analytics\raw_data\vid.mp4", "output")
