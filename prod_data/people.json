@@ -1,11 +1,51 @@
 [
     {
-        "id": "lyndawilson",
-        "name": "Lynda Wilson",
+        "id": "andybillig",
+        "name": "Andy Billig",
         "info": {
             "office": "Washington State Senator"
         },
-        "headshot": "wilson.jpg"
+        "headshot": "billig.jpg"
+    },
+    {
+        "id": "annettecleveland",
+        "name": "Annette Cleveland",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "cleveland.jpg"
+    },
+    {
+        "id": "annrivers",
+        "name": "Ann Rivers",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "rivers.jpg"
+    },
+    {
+        "id": "bobhasegawa",
+        "name": "Bob Hasegawa",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "hasegawa.jpg"
+    },
+    {
+        "id": "bradhawkins",
+        "name": "Brad Hawkinks",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "hawkins.jpg"
+    },
+    {
+        "id": "chrisgildon",
+        "name": "Chris Gildon",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "gildon.jpg"
     },
     {
         "id": "christinerolfes",
@@ -14,6 +54,150 @@
             "office": "Washington State Senator"
         },
         "headshot": "rolfes.jpg"
+    },
+    {
+        "id": "clairewilson",
+        "name": "Claire Wilson",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "cwilson.jpg"
+    },
+    {
+        "id": "curtisking",
+        "name": "Curtis King",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "king.jpg"
+    },
+    {
+        "id": "davidfrockt",
+        "name": "frockt",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "frockt.jpg"
+    },
+    {
+        "id": "dennyheck",
+        "name": "Denny Heck",
+        "info": {
+            "office":"Lt. Governor"
+        },
+        "headshot": "heck.jpg"
+    },
+    {
+        "id": "derekstanford",
+        "name": "Derek Stadford",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "stanford.jpg"
+    },
+    {
+        "id": "dougericksen",
+        "name": "Doug Ericksen",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "ericksen"
+    },
+    {
+        "id": "emilyrandall",
+        "name": "Emily Randall",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "randall.jpg"
+    },
+    {
+        "id": "jamiepadersen",
+        "name": "Jamie Padersen",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "pedersen.jpg"
+    },
+    {
+        "id": "jeanniedarneille",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": ""
+    },
+    {
+        "id": "lyndawilson",
+        "name": "Lynda Wilson",
+        "info": {
+            "office": "Washington State Senator"
+        },
+        "headshot": "wilson.jpg"
     },
     {
         "id": "junerobinson",
