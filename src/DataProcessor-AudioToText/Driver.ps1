@@ -1,20 +1,20 @@
-# . src\DataProcessor-AudioToText\Invoke-AudioToText.ps1
+$originalTranscriptPath = "{insert-your-path}\ai-news-reader\data\messages\2021041286-April25Transcript.json"
+$timestampTranscriptPath = "{insert-your-path}\ai-news-reader\prod_data\messages\2021041286-April25.json"
+$topicsOutputPath = "{insert-your-path}\ai-news-reader\prod_data\topics\2021041286-April25Topics.json"
+$speakerOutputPath = "{insert-your-path}\ai-news-reader\transcript-analytics\output\2021041286-April25\2021041286-April25SpeakerInfo.json"
 
-# Invoke-AudioToText -ComputerName "test"
+. src\DataProcessor-AudioToText\Update-TranscriptVideoTimes.ps1
 
-
-# . src\DataProcessor-AudioToText\Update-TranscriptVideoTimes.ps1
-
-# Update-TranscriptVideoTimes -TranscriptPath "{Your-FullPath-Here}\ai-news-reader\data\Transcripts\c-spanTranscript1Speaker.json" `
-#                             -OutputPath "{Your-FullPath-Here}\test.json"
+Update-TranscriptVideoTimes -TranscriptPath $originalTranscriptPath `
+                            -OutputPath $timestampTranscriptPath
 
 . src\DataProcessor-AudioToText\Get-MessageDictionary
-$messages = Get-MessageDictionary -TranscriptPath "{Your-FullPath-Here}\ai-news-reader\data\Transcripts\c-spanTranscript1Speaker-VideoTime.json"
+$messages = Get-MessageDictionary -TranscriptPath $timestampTranscriptPath
 
 . src\DataProcessor-AudioToText\New-SpeakerData.ps1
 $result = New-SpeakerData -Messages $messages `
-                          -TopicsPath "{Your-FullPath-Here}\ai-news-reader\data\Transcripts\c-spanTranscript-Topics.json"
+                          -TopicsPath $topicsOutputPath
 
 $txtJson = ConvertTo-Json $result -Depth 4
 
-$txtJson | Out-File -FilePath "{Your-FullPath-Here}\SpeakerInfo.json" -NoClobber
+$txtJson | Out-File -FilePath $speakerOutputPath -NoClobber
