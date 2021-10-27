@@ -29,10 +29,11 @@ def person_topic_sticher(people_filepath: str, matches_folder: str, timestamp_fo
 
     for dirpath, _, files in os.walk(messages_folder):
         for file in files:
-            with open(os.path.join(dirpath, file), "r") as f:
-                if file == "2021041286-April25.json":
+            with open(os.path.join(dirpath, file), "r", encoding="utf-16") as f:
+                if file == "2021041285-April25.json":
                     video_id = file.removesuffix(".json")
-                    json_data = json.loads(f.read())
+                    raw_string = f.read()
+                    json_data = json.loads(raw_string)
                     raw_message_data[video_id] =  json_data["messages"]
     
 
@@ -79,15 +80,25 @@ def person_topic_sticher(people_filepath: str, matches_folder: str, timestamp_fo
         for raw_message in raw_messages:
             simple_message = {}
             simple_message["id"] = raw_message["id"]
-            simple_message["start"] = raw_message["StartVideoTime"]
-            simple_message["end"] = raw_message["EndVideoTime"]
+            simple_message["start"] = int(raw_message["StartVideoTime"])
+            simple_message["end"] = int(raw_message["EndVideoTime"])
             messages.append(simple_message)
 
         video_to_message_data[video_id] = messages
 
     # Person to message id
+
+    is_in_msg = lambda time, msg: msg["start"] < time and time < msg["end"]
     
-    
+    person_messages = {}
+
+    print()
+
+    for video_id, person_face_timestamp_data in video_person_face_timestamp.items():
+        video_messages = video_to_message_data[video_id]
+
+        for person, face_timestamp_data in person_face_timestamp_data:
+            pass
         
 
 
