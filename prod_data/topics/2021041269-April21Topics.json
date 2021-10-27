@@ -1,1 +1,204 @@
-{"topics":[{"id":"5158632409792512","text":"fourth order business","type":"topic","score":0.864,"messageIds":["5178750628003840","5804866074050560"],"parentRefs":[]},{"id":"4699960772657152","text":"eighth order business hearing","type":"topic","score":0.864,"messageIds":["5989972118077440"],"parentRefs":[]},{"id":"5855940537483264","text":"korea","type":"topic","score":0.35,"messageIds":["5715400751841280","5563824926097408","6195043841867776","4771761821319168","6663521694646272","6396675389128704","5289781035532288","4870975821709312","5125456392093696","5526302481186816","5056274749194240","6672707165880320","6722611397525504","6275403296538624","5182104406065152","5769403468611584","4754536787869696","6055360445022208","4693319448788992","6440204949782528","6293500611002368"],"parentRefs":[]},{"id":"5372838065209344","text":"higher education system","type":"topic","score":0.512,"messageIds":["5110034519293952"],"parentRefs":[]},{"id":"5689956237312000","text":"political party","type":"topic","score":0.575,"messageIds":["5874752238387200"],"parentRefs":[]},{"id":"6725662892097536","text":"non-residents service members","type":"topic","score":0.864,"messageIds":["4890189773144064"],"parentRefs":[]},{"id":"6630172548661248","text":"prime sponsor","type":"topic","score":0.526,"messageIds":["4890189773144064","6212218757578752","5969472507609088"],"parentRefs":[]},{"id":"5263039038226432","text":"challenge interns","type":"topic","score":0.771,"messageIds":["6692979411517440","5323315011911680"],"parentRefs":[]},{"id":"5680870368215040","text":"senator shins affinity","type":"topic","score":0.542,"messageIds":["6485197538197504"],"parentRefs":[]},{"id":"4554970461372416","text":"president pro","type":"topic","score":0.35,"messageIds":["5845639607877632","5834192379183104"],"parentRefs":[]},{"id":"6124852680327168","text":"asian american relations","type":"topic","score":0.506,"messageIds":["6278210045083648"],"parentRefs":[]},{"id":"5194131006554112","text":"state house","type":"topic","score":0.5,"messageIds":["4757111553654784"],"parentRefs":[]},{"id":"5409961602449408","text":"student lobbyists","type":"topic","score":0.615,"messageIds":["6586614546432000","6660088887508992","5974929867538432"],"parentRefs":[]},{"id":"6072506344538112","text":"book","type":"topic","score":0.35,"messageIds":["6176545765851136","6732788578385920","6160732904226816","5856503324999680","5599042919727104","5704350954422272","4944358370443264","6070258277285888","6385457941184512","5944341714436096","5995165203300352","5500552663269376"],"parentRefs":[]},{"id":"5549157344346112","text":"provide education opportunities","type":"topic","score":0.97,"messageIds":["6653307536801792"],"parentRefs":[]},{"id":"5896054403760128","text":"mutual friend","type":"topic","score":0.581,"messageIds":["6549369596674048","6584925403742208","6367439613853696"],"parentRefs":[]}]}
+{
+    "topics": [
+        {
+            "id": "5158632409792512",
+            "text": "fourth order business",
+            "type": "topic",
+            "score": 0.864,
+            "messageIds": [
+                "5178750628003840",
+                "5804866074050560"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "4699960772657152",
+            "text": "eighth order business hearing",
+            "type": "topic",
+            "score": 0.864,
+            "messageIds": [
+                "5989972118077440"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5855940537483264",
+            "text": "korea",
+            "type": "topic",
+            "score": 0.35,
+            "messageIds": [
+                "5715400751841280",
+                "5563824926097408",
+                "6195043841867776",
+                "4771761821319168",
+                "6663521694646272",
+                "6396675389128704",
+                "5289781035532288",
+                "4870975821709312",
+                "5125456392093696",
+                "5526302481186816",
+                "5056274749194240",
+                "6672707165880320",
+                "6722611397525504",
+                "6275403296538624",
+                "5182104406065152",
+                "5769403468611584",
+                "4754536787869696",
+                "6055360445022208",
+                "4693319448788992",
+                "6440204949782528",
+                "6293500611002368"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5372838065209344",
+            "text": "higher education system",
+            "type": "topic",
+            "score": 0.512,
+            "messageIds": [
+                "5110034519293952"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5689956237312000",
+            "text": "political party",
+            "type": "topic",
+            "score": 0.575,
+            "messageIds": [
+                "5874752238387200"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "6725662892097536",
+            "text": "non-residents service members",
+            "type": "topic",
+            "score": 0.864,
+            "messageIds": [
+                "4890189773144064"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "6630172548661248",
+            "text": "prime sponsor",
+            "type": "topic",
+            "score": 0.526,
+            "messageIds": [
+                "4890189773144064",
+                "6212218757578752",
+                "5969472507609088"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5263039038226432",
+            "text": "challenge interns",
+            "type": "topic",
+            "score": 0.771,
+            "messageIds": [
+                "6692979411517440",
+                "5323315011911680"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5680870368215040",
+            "text": "senator shins affinity",
+            "type": "topic",
+            "score": 0.542,
+            "messageIds": [
+                "6485197538197504"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "4554970461372416",
+            "text": "president pro",
+            "type": "topic",
+            "score": 0.35,
+            "messageIds": [
+                "5845639607877632",
+                "5834192379183104"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "6124852680327168",
+            "text": "asian american relations",
+            "type": "topic",
+            "score": 0.506,
+            "messageIds": [
+                "6278210045083648"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5194131006554112",
+            "text": "state house",
+            "type": "topic",
+            "score": 0.5,
+            "messageIds": [
+                "4757111553654784"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5409961602449408",
+            "text": "student lobbyists",
+            "type": "topic",
+            "score": 0.615,
+            "messageIds": [
+                "6586614546432000",
+                "6660088887508992",
+                "5974929867538432"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "6072506344538112",
+            "text": "book",
+            "type": "topic",
+            "score": 0.35,
+            "messageIds": [
+                "6176545765851136",
+                "6732788578385920",
+                "6160732904226816",
+                "5856503324999680",
+                "5599042919727104",
+                "5704350954422272",
+                "4944358370443264",
+                "6070258277285888",
+                "6385457941184512",
+                "5944341714436096",
+                "5995165203300352",
+                "5500552663269376"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5549157344346112",
+            "text": "provide education opportunities",
+            "type": "topic",
+            "score": 0.97,
+            "messageIds": [
+                "6653307536801792"
+            ],
+            "parentRefs": []
+        },
+        {
+            "id": "5896054403760128",
+            "text": "mutual friend",
+            "type": "topic",
+            "score": 0.581,
+            "messageIds": [
+                "6549369596674048",
+                "6584925403742208",
+                "6367439613853696"
+            ],
+            "parentRefs": []
+        }
+    ]
+}
