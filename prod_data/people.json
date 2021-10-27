@@ -121,19 +121,59 @@
     },
     {
         "id": "jeanniedarneille",
+        "name": "Jeannie Darneille",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "darneille.jpg"
+    },
+    {
+        "id": "jeffholy",
+        "name": "Jeff Holy",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "jwilson.jpg"
+    },
+    {
+        "id": "jessesalomon",
+        "name": "Jesse Salomon",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "salomon.jpg"
+    },
+    {
+        "id": "jimhoneyford",
+        "name": "Jim Honeyford",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "honeyford.jpg"
+    },
+    {
+        "id": "joenguyen",
+        "name": "Joe Nguyen",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "nguyen.jpg"
+    },
+    {
+        "id": "johnbraun",
+        "name": "John Braun",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "braun.jpg"
+    },
+    {
+        "id": "",
         "name": "",
         "info": {
             "office":"Washington State Senator"
         },
         "headshot": ""
-    },
-    {
-        "id": "lyndawilson",
-        "name": "Lynda Wilson",
-        "info": {
-            "office": "Washington State Senator"
-        },
-        "headshot": "wilson.jpg"
     },
     {
         "id": "junerobinson",
@@ -142,6 +182,14 @@
             "office": "Washington State Senator"
         },
         "headshot": "robinson.jpg"
+    },
+    {
+        "id": "lyndawilson",
+        "name": "Lynda Wilson",
+        "info": {
+            "office": "Washington State Senator"
+        },
+        "headshot": "wilson.jpg"
     },
     {
         "id": "",
