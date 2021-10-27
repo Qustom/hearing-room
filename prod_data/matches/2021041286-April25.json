@@ -2,11 +2,15 @@
     "2021041286-April25": {
         "andybillig": [],
         "annettecleveland": [],
-        "annrivers": [],
+        "annrivers": [
+            "face-11.png"
+        ],
         "bobhasegawa": [],
         "bradhawkins": [],
         "chrisgildon": [],
-        "christinerolfes": [],
+        "christinerolfes": [
+            "face-8.png"
+        ],
         "clairewilson": [],
         "curtisking": [
             "face-4.png"
@@ -20,23 +24,23 @@
         "emilyrandall": [],
         "jamiepedersen": [],
         "jeanniedarneille": [],
-        "jeffholy": [
-            "face-16.png"
-        ],
+        "jeffholy": [],
         "jeffwilson": [],
         "jessesalomon": [],
         "jimhoneyford": [],
         "jimmccune": [],
         "joenguyen": [],
         "johnbraun": [
-            "face-1.png"
+            "face-19.png"
         ],
         "judywarnick": [
             "face-14.png"
         ],
         "junerobinson": [],
         "karenkeiser": [],
-        "keithwagoner": [],
+        "keithwagoner": [
+            "face-13.png"
+        ],
         "kevinvandewege": [],
         "lisawellman": [],
         "lizlovelett": [],
@@ -50,14 +54,18 @@
         "mikepadden": [],
         "monadas": [],
         "pattykuderer": [],
-        "perrydozier": [],
+        "perrydozier": [
+            "face-16.png"
+        ],
         "philfortunato": [
             "face-12.png"
         ],
         "rebeccasaldana": [
             "face-23.png"
         ],
-        "reuvencarlyle": [],
+        "reuvencarlyle": [
+            "face-20.png"
+        ],
         "ronmuzzall": [],
         "samhunt": [],
         "sharonbrown": [
@@ -68,7 +76,11 @@
         "stevehobbs": [
             "face-3.png"
         ],
-        "t'winanobles": [],
-        "timsheldon": []
+        "t'winanobles": [
+            "face-17.png"
+        ],
+        "timsheldon": [
+            "face-22.png"
+        ]
     }
 }
