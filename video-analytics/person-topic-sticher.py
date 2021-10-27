@@ -181,14 +181,3 @@ def person_topic_sticher(people_filepath: str, matches_folder: str, timestamp_fo
     data = final_result
     with open(f"{output_folder}\\results.json", 'w') as outfile:
         json.dump(data, outfile)
-
-
-person_topic_sticher(
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\people.json",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\matches",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\faces",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\messages",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\topics",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\video_metadata.json",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\results",
-)

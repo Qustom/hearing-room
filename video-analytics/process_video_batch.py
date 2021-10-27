@@ -89,9 +89,3 @@ def process_all(intake_folder: str, output_folder: str) -> None:
         output_path = output_folder + "\\" + file.removesuffix(".mp4")
         os.mkdir(output_path)
         process_video(intake_folder + "\\" + file, output_path)
-
-
-process_all(r"C:\Users\qustom\source\ai-news-reader\video-analytics\raw_data",
-            r"C:\Users\qustom\source\ai-news-reader\prod_data\faces")
-
-#process_video(r"C:\Users\qustom\source\ai-news-reader\video-analytics\raw_data\vid.mp4", "output")

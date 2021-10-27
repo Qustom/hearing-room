@@ -143,10 +143,3 @@ def people_video_stitcher(people_file:str, people_folder: str, video_folder: str
     with open(f"{matches_folder}\{video_id}.json", 'w') as outfile:
         json.dump(data, outfile)
 
-
-people_video_stitcher(
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\people.json",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\people",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\faces",
-    "2021041269-April21",
-    r"C:\Users\qustom\source\ai-news-reader\prod_data\matches")
