@@ -27,8 +27,8 @@ function Update-TranscriptVideoTimes {
         $endTime = $currentTime + $speakingTime
 
         # Set start and stop time stamps
-        Add-Member -InputObject $_ -NotePropertyName StartVideoTime -NotePropertyValue $currentTime.TotalMilliseconds
-        Add-Member -InputObject $_ -NotePropertyName EndVideoTime -NotePropertyValue $endTime.TotalMilliseconds
+        Add-Member -InputObject $_ -NotePropertyName StartVideoTime -NotePropertyValue "$($currentTime.TotalMilliseconds)"
+        Add-Member -InputObject $_ -NotePropertyName EndVideoTime -NotePropertyValue "$($endTime.TotalMilliseconds)"
 
         # Prepare for next message
         $currentTime = $endTime
