@@ -168,12 +168,12 @@
         "headshot": "braun.jpg"
     },
     {
-        "id": "",
-        "name": "",
+        "id": "judywarnick",
+        "name": "Judy Warnick",
         "info": {
             "office":"Washington State Senator"
         },
-        "headshot": ""
+        "headshot": "warnick.jpg"
     },
     {
         "id": "junerobinson",
@@ -184,12 +184,52 @@
         "headshot": "robinson.jpg"
     },
     {
+        "id": "karenkeiser",
+        "name": "Karen Keiser",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "keiser.jpg"
+    },
+    {
+        "id": "keithwagoner",
+        "name": "Keith Wagoner",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "wagoner.jpg"
+    },
+    {
+        "id": "kevinvandewege",
+        "name": "Kevin Vandewege",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "vandewage.jpg"
+    },
+    {
+        "id": "lisawellman",
+        "name": "Lisa Wellman",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "wellman.jpg"
+    },
+    {
+        "id": "lizlovelett",
+        "name": "Liz Lovelett",
+        "info": {
+            "office":"Washington State Senator"
+        },
+        "headshot": "lovelett.jpg"
+    },
+    {
         "id": "lyndawilson",
         "name": "Lynda Wilson",
         "info": {
             "office": "Washington State Senator"
         },
-        "headshot": "wilson.jpg"
+        "headshot": "lwilson.jpg"
     },
     {
         "id": "",
