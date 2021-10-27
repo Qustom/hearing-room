@@ -1,3 +1,53 @@
 video-analytics/raw_data
 video-analytics/raw_data_test
 .venv
+
+
+#### React App Ignores
+
+# dependencies
+/hearingroom-app/news-reader/node_modules
+/hearingroom-app/news-reader/.pnp
+.pnp.js
+
+# testing
+/hearingroom-app/news-reader/coverage
+
+# production
+/hearingroom-app/news-reader/build
+
+# misc
+/hearingroom-app/news-reader/.DS_Store
+/hearingroom-app/news-reader/.env.local
+/hearingroom-app/news-reader/.env.development.local
+/hearingroom-app/news-reader/.env.test.local
+/hearingroom-app/news-reader/.env.production.local
+
+/hearingroom-app/news-reader/npm-debug.log*
+/hearingroom-app/news-reader/yarn-debug.log*
+/hearingroom-app/news-reader/yarn-error.log*
+
+#### NodeJS Server Ignores
+
+# dependencies
+/hearingroom-app/news-reader-server/node_modules
+/hearingroom-app/news-reader-server/.pnp
+/hearingroom-app/news-reader-server/.pnp.js
+
+# testing
+/hearingroom-app/news-reader-server/coverage
+
+# production
+/hearingroom-app/news-reader-server/build
+
+# misc
+/hearingroom-app/news-reader-server/.DS_Store
+/hearingroom-app/news-reader-server/.env.local
+/hearingroom-app/news-reader-server/.env.development.local
+/hearingroom-app/news-reader-server/.env.test.local
+/hearingroom-app/news-reader-server/.env.production.local
+
+/hearingroom-app/news-reader-server/npm-debug.log*
+/hearingroom-app/news-reader-server/yarn-debug.log*
+/hearingroom-app/news-reader-server/yarn-error.log*
+
