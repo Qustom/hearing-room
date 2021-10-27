@@ -1,0 +1,3 @@
+[submodule "hearingroom-client"]
+	path = hearingroom-client
+	url = https://github.com/kinern/hearingroom-client
