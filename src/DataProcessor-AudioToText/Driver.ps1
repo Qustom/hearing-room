@@ -1,7 +1,7 @@
-$originalTranscriptPath = "{insert-your-path}\ai-news-reader\data\messages\2021041286-April25Transcript.json"
-$timestampTranscriptPath = "{insert-your-path}\ai-news-reader\prod_data\messages\2021041286-April25.json"
-$topicsOutputPath = "{insert-your-path}\ai-news-reader\prod_data\topics\2021041286-April25Topics.json"
-$speakerOutputPath = "{insert-your-path}\ai-news-reader\transcript-analytics\output\2021041286-April25\2021041286-April25SpeakerInfo.json"
+$originalTranscriptPath = "{insert-your-path}\hearing-room\data\messages\2021041286-April25Transcript.json"
+$timestampTranscriptPath = "{insert-your-path}\hearing-room\prod_data\messages\2021041286-April25.json"
+$topicsOutputPath = "{insert-your-path}\hearing-room\prod_data\topics\2021041286-April25Topics.json"
+$speakerOutputPath = "{insert-your-path}\hearing-room\transcript-analytics\output\2021041286-April25\2021041286-April25SpeakerInfo.json"
 
 . src\DataProcessor-AudioToText\Update-TranscriptVideoTimes.ps1
 
