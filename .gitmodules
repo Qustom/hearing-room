@@ -1,3 +1,6 @@
 [submodule "hearingroom-client"]
 	path = hearingroom-client
 	url = https://github.com/kinern/hearingroom-client
+[submodule "hearingroom-server"]
+	path = hearingroom-server
+	url = https://github.com/kinern/hearingroom-server
